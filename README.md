@@ -11,6 +11,7 @@
 |    5    |            | [](lessons/ses5.md)|
 |    6    |            | [](lessons/ses6.md)|
 |    7    |            | [](lessons/ses7.md)           |
+|        |            | Efterårsferie |
 |    8    |            | [](lessons/ses8.md)|
 |    9    |            | [](lessons/ses9.md)|
 |   10    |            | [](lessons/ses10.md) |
