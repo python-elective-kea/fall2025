@@ -5,8 +5,8 @@
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
 |    1    | 27/01/2025 | [Introduktion til python](lessons/ses1.md)                |
-|    2    | 03/02/2025 | [Python - datastrukture](lessons/ses2.md)                 |
-|    3    | 10/02/2025 | [Python - modules, virtual environmnets, requirements.txt](lessons/ses3.md)|
+|    2    | 03/02/2025 | [Python - datastrukture](lessons/_ses2.md)                 |
+|    3    | 10/02/2025 | [Python - modules, virtual environmnets, requirements.txt](lessons/_ses3.md)|
 |    4    | 17/02/2025 | [](lessons/ses4.md)|
 |    5    | 24/02/2025 | [](lessons/ses5.md)|
 |    6    | 02/03/2025 | [](lessons/ses6.md)|
@@ -22,7 +22,7 @@
 |   14    | 12/05/2025 | Eksamensforberedelse og synopsis |
 
 ## Om valgfaget
-* [Læs mere om vagfaget her](lessons/about_this_elective.md)
+* [Læs mere om vagfaget her](formalia/about_this_elective.md)
 
 ## Eksamen
-* [Eksamen i dette valgfag er beskrevet her](lessons/exam.md)
+* [Eksamen i dette valgfag er beskrevet her](formalia/exam.md)
