@@ -22,9 +22,18 @@ Husk, at en god synopsis klart og præcist præsenterer dit emne, formålet med 
 ## Eksamensemnerne
 Til din eksamen skal du demonstrere, i hvor høj grad du opfylder læringsmålene for dette valgfag. Dette skal du gøre ved at demonstrere din viden, dine færdigheder og dine kompetencer inden for disse emner:
 
-* Pythons datastrukturer og boolsk logik
+* Pythons datastrukturer
+* Udsagns- og boolsk logik
 * Pythonic OOP
 * Funktioner i Python (Indbyggede funktioner, funktioner generelt, dekoratorer osv.)
+
+I forhold til hvad hvert emne vil kunne indeholde, så skal du snakke ud fra de ting vi har været igennem i undervisningen. Herunder det som har været præsenteret i litteraturen til valgfaget. Du vil kunne finde alt det i hvert sessions materiale afsnit. Du skal ikke dække alle elementer af hvert emne, men vælger selv hvilke du mener er mest interessante. Herunder er en liste over de emner vi har været igennem i dette semester.     
+
+**Pythons datastrukturer** 
+Oprettelse, tilføje og fjerne elementer, forskelle på de 4 datastrukturer, eksempler på hvad de forsekllige datastrukturer kan bruges til. Indexering, Slicing, sortering, sortering baseret på egne krav, 
+
+**Udsagns- og boolsk logik**    
+Sandhedstabeller for AND, OR, NOT. 
 
 Du kan lade dig inspirere i forhold til hvad du skal snakke om i denne [synopsis template](formalia/exam_synopsis_template.md)
 
