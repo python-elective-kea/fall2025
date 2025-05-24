@@ -139,8 +139,10 @@ I dokumentationen kan du læse følgende om range-funktionen.
 
 ```python
 class range(start, stop, step=1)
-Rather than being a function, range is actually an immutable sequence type, as documented in Ranges and Sequence Types — list, tuple, range.
+
 ```
+Rather than being a function, range is actually an immutable sequence type, as documented in Ranges and Sequence Types — list, tuple, range.
+
 
 Så range-funktionen er faktisk ikke en funktion, det er en klasse, der implementerer iteratorprotokollen.
 
