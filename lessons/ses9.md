@@ -144,10 +144,11 @@ Rather than being a function, range is actually an immutable sequence type, as d
 
 Så range-funktionen er faktisk ikke en funktion, det er en klasse, der implementerer iteratorprotokollen.
 
+```
 >>> r = range(1, 10, 2)
 >>> i = iter(r)
 >>> next(i)
-1
+```
 
 2. Gør det samme, men brug en generatorfunktion i stedet.
 
@@ -157,6 +158,8 @@ Så range-funktionen er faktisk ikke en funktion, det er en klasse, der implemen
 
 Gør `List Comprehension chalenges`_ fra sidste gang, men brug nu generatorfunktioner og generatorudtryk, hvor det er muligt.
 
+<!--
+
 .. _List Comprehension chalenges:
 
 .. todo::
@@ -165,3 +168,4 @@ Gør `List Comprehension chalenges`_ fra sidste gang, men brug nu generatorfunkt
      * decorator classes.
        * __call__() method implementation
          * show the add() example:q
+-->
