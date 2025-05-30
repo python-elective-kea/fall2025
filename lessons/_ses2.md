@@ -128,7 +128,7 @@ soldout = [('Black', 'm'), ('White', 's')]
 
 **Øvelsen med sets**    
 Lav nu øvelsen igen, men hvor colors, sizes og soldout er **sets** i stedet for lister. `colors = {'Black', 'White'}` etc.    
-Du kan i princippet lave denne øvelse meget lig den forrige, men du kan også være mere "effektiv" og bruge set operatorer til at lave "soldout" - delen af øvelsen.
+Du kan i princippet lave denne øvelse meget lig den forrige, men det kan være mere "effektiv" at bruge set operatorer til at lave "soldout"-delen af øvelsen.
 
 
 ---
