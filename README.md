@@ -7,9 +7,9 @@
 |    1    |            | [Introduktion til python](lessons/ses1.md)                |
 |    2    |            | [Python - datastrukture](lessons/_ses2.md)                 |
 |    3    |            | [Python - modules, virtual environmnets, requirements.txt](lessons/_ses3.md)|
-|    4    |            | [Udsagnslogik (diskret matematik)](lessons/ses4.md)|
-|    5    |            | [Betingelser (boolean logik)](lessons/ses5.md)|
-|    6    |            | [Obligatorisk opgave](lessons/obligatorisk_1.md)|
+|    4    |            | [Obligatorisk opgave](lessons/obligatorisk_1.md)|
+|    5    |            | [Udsagns og prædikat logik (diskret matematik)](lessons/ses4.md)|
+|    6    |            | [Betingelser (boolean logik)](lessons/ses5.md)|
 |    7    |            | [Functions & decorators](lessons/ses6.md)|
 |    8    |            | [Pythonic OOP](lessons/ses7.md)           |
 |        |            | Efterårsferie |

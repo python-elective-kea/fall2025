@@ -1,8 +1,6 @@
 # Session 7 - OOP
 
-.. note:: Homework
-
-Before this class you should have read and understood this text `Object-Oriented Programming (OOP) in Python 3 <https://realpython.com/python3-object-oriented-programming/>`\_. These are basic OOP concepts, which you have already worked with in the first part of your education. You just need to be up to date with how this is done, and how the syntax is done in python.
+Før denne lektion bør du have læst og forstået denne tekst [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/). Dette er grundlæggende OOP koncepter, som du allerede har arbejdet med i den første del af din uddannelse. Du skal bare være opdateret med, hvordan dette gøres, og hvordan syntaksen er i Python.
 
 I dag arbejder vi med det grundlæggende i objektorienteret programmering i Python.
 
@@ -17,74 +15,61 @@ Efter at have arbejdet med disse emner vil du kunne:
 
 ## Materials
 
-* `Object-Oriented Programming (OOP) in Python 3 <https://realpython.com/python3-object-oriented-programming/>`\_
-* `Python args and kwargs: Demystified <https://realpython.com/python-kwargs-and-args/>`\_
-* `Notebook on classes <notebooks/class_notes.ipynb>`\_
-* `Code examples from teachings <https://github.com/python-elective-kea/spring2023-code-examples-from-teachings/tree/master/ses7>`\_
+- [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+- [Python args and kwargs: Demystified](https://realpython.com/python-kwargs-and-args/)
+- [Notebook on classes](notebooks/class_notes.ipynb)
+- [Code examples from teachings](https://github.com/python-elective-kea/spring2023-code-examples-from-teachings/tree/master/ses7)
 
-## Exercises
 
-.. raw:: html
-
-   <hr>
+## Øvelser
 
 ---
 
-## EX 1: Bank Exercise
+## ØV 1: Bank Øvelse
 
-`Solution <exercises/solution/04_oop/solution.rst>`\_
+Opret en Bank, en Konto, og en Kunde klasse.
 
-Create a Bank, an Account, and a Customer class.
+* Alle klasser skal være i en enkelt fil.
+* Bank klassen skal kunne indeholde mange konti.
+* Du skal kunne tilføje nye konti.
+* Konto klassen skal have relevante detaljer.
+* Kunde klassen skal også have relevante detaljer.
 
-* All classes should be in a single file.
-* The bank class should be able to hold many accounts.
-* You should be able to add new accounts.
-* The Account class should have relevant details.
-* The Customer class Should also have relevant details.
+Hold dig til de teknikker, vi har dækket indtil nu.
 
-Stick to the techniques we have covered so far.
-
-* Add the ability for your **init** method to handle different inputs (parameters).
-
-.. raw:: html
-
-   <hr>
+* Tilføj evnen for din **init** metode til at håndtere forskellige inputs (parametre).
 
 ---
 
-## Ex 1a: Python skills Evaluation
+## ØV 1a: Python færdigheder Evaluering
 
-Copy/paste this in "your" ChatGpt prompt.
-The recursing evaluation will work best with GPT4 (the paid version) but it is also ok with gpt3 (used by the free version)
-
-.. code::
+Kopier/ind sæt dette i "din" ChatGpt prompt.
+Den rekursive evaluering vil fungere bedst med GPT4 (den betalte version), men det er også okay med gpt3 (bruges af den gratis version).
 
 ```
-    I want to get a score of how well my python programming is. The score should be from 1 to 10.
+    Jeg vil gerne have en score for, hvor godt min Python programmering er. Scoren skal være fra 1 til 10.
 
-    You should give me exercises one at a time. The exercise need to be solved with code. The exercises should match the level you think i am at.
+    Du skal give mig øvelser en ad gangen. Øvelsen skal løses med kode. Øvelserne skal matche det niveau, du tror, jeg er på.
 
-    You will provide the exercise and i will give you code. For each exercise write what level you think i am at
+    Du vil give øvelsen, og jeg vil give dig koden. For hver øvelse, skriv hvilket niveau du tror, jeg er på.
 
-    When you are confident of my level generate a report. The report should contain the following
-    1. The level you think i am at
-    2. Feedback on the code i wrote
-    3. Where i should focus to improve
+    Når du er sikker på mit niveau, generer en rapport. Rapporten skal indeholde følgende:
+    1. Det niveau, du tror, jeg er på.
+    2. Feedback på den kode, jeg skrev.
+    3. Hvor jeg skal fokusere for at forbedre mig.
 
-    Lets start with the first question   
+    Lad os starte med det første spørgsmål.
 ```
 
 ---
 
-## Ex 2: Angry Bird
+## ØV 2: Angry Bird
 
-`Solution <exercises/solution/04_oop/solution.rst>`\_
+I denne øvelse skal du lave en simpel terminalversion af dette `Angry Bird online coding teaching tool for kids <https://studio.code.org/hoc/1>`\_.
 
-In this exercises you are going to create a simple terminal version of this `Angry Bird online coding teaching tool for kids <https://studio.code.org/hoc/1>`\_.
+![assets/bird.png](assets/bird.png)
 
-.. image:: \_static/angry\_bird.png
-
-You should make this as an OOP application, and your classes could be like this.
+Du skal lave dette som en OOP applikation, og dine klasser kunne se sådan ud.
 
 **Bird**
 
@@ -102,8 +87,6 @@ You should make this as an OOP application, and your classes could be like this.
 * Skal initialisere et Bird- og et Pig-objekt.
 * Den skal *display* boardet med bird og pig i startpositioner.
 * Den skal have en *run method*:
-
-.. code::
 
 ```
    *  *  *  *  *  *  *  *  *  *
@@ -125,16 +108,10 @@ You should make this as an OOP application, and your classes could be like this.
 
 **Game**
 
-* Denne class er ansvarlig for at køre applikationen. Den skal oprette objekter af Board og Workspace og kalde deres display-metoder. Den er også ansvarlig for at afgøre, om bird rammer pig eller ej.
-
----
-
-Screencast
+* Denne klasse er ansvarlig for at køre applikationen. Den skal oprette objekter af Board og Workspace og kalde deres display-metoder. Den er også ansvarlig for at afgøre, om bird rammer pig eller ej.
 
 ---
 
 Du kan se en prototype af denne øvelse her. Du er selvfølgelig velkommen til at forbedre spillet, men dette kunne være en løsning.
 
-.. raw:: html
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/n9Ths1CSCkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [Angry Bird terminal](https://www.youtube.com/embed/n9Ths1CSCkU)

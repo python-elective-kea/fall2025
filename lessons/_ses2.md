@@ -126,6 +126,9 @@ Hvis tuple-parret er i følgende liste, skal det ikke tilføjes til den generere
 
 soldout = [('Black', 'm'), ('White', 's')]
 
+**Øvelsen med sets**    
+Lav øvelsen igen, men nu hvor colors, sizes og soldout er **sets** i stedet for lister.
+
 ---
 #### Ex 5: List Comprehension øvelser
 ---
