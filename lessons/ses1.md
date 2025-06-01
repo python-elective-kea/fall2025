@@ -43,15 +43,15 @@ Vi starter med at gå igennem disse [slides](materialer/introduktion/)
 
 ## Materialer
 
-* `Is Python interpreted or compiled? Yes. <https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html>`_
-* `Built-in Functions <https://docs.python.org/3/library/functions.html>`_
-* `Strings and Character Data in Python <https://realpython.com/python-strings/>`_
-* `if Statements <https://docs.python.org/3/tutorial/controlflow.html#if-statements>`_
+* [Is Python interpreted or compiled? Yes.](https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html)
+* [Built-in Functions](https://docs.python.org/3/library/functions.html)
+* [Strings and Character Data in Python](https://realpython.com/python-strings/)
+* [if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 * [Notes from teachings](materialer/introduktion/notes_01.md)
-* `Code examples from teachings <https://github.com/python-elective-kea/spring2023-code-examples-from-teachings/tree/master/ses1>`_
+* [Kode fra undervisningen](../materialer/datastrukturer1/)
 
 ### Øvelser
-* [Strings1 & Strings2](materialer/introduktion/) ([Løsninger kommer online på mandag](materialer/introduktion/solutions))
+* [Strings1 & Strings2](../materialer/introduktion/) ([Løsninger kommer online på mandag](../materialer/introduktion/solutions))
 
 #### Quizes
 
