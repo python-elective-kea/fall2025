@@ -29,35 +29,31 @@ Så "overblik" er overskriften på den første del af denne dag.
 
 I den anden del skal vi i gang med at kode. I vil begynde at blive fortrolige med sproget og udviklingsmiljøet. I denne første session vil vi fokusere på strenge og strengmanipulationer, betingelser og funktioner.
 
+## Forberedelse
+
+Inden vi mødes skal i have installeret:
+
+* [Python](https://www.python.org/downloads/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Git](https://git-scm.com/downloads)
+
 ## Dagen i dag
 
-Vi starter med at gå igennem disse [slides](_materialer/intro_slides.html)
+Vi starter med at gå igennem disse [slides](materialer/introduktion/)
 
-Materials
----------
-* `Installations <notebooks/installation.md>`_
-* `Unix commands and file system <notebooks/unix_commands.md>`_
-* `8 World-Class Software Companies That Use Python <https://realpython.com/world-class-companies-using-python/>`_
+## Materialer
+
 * `Is Python interpreted or compiled? Yes. <https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html>`_
 * `Built-in Functions <https://docs.python.org/3/library/functions.html>`_
 * `Strings and Character Data in Python <https://realpython.com/python-strings/>`_
 * `if Statements <https://docs.python.org/3/tutorial/controlflow.html#if-statements>`_
-* `Notes from teachings <notebooks/notes_01.md>`_
+* [Notes from teachings](materialer/introduktion/notes_01.md)
 * `Code examples from teachings <https://github.com/python-elective-kea/spring2023-code-examples-from-teachings/tree/master/ses1>`_
 
-Exercises
----------
+### Øvelser
+* [Strings1 & Strings2](materialer/introduktion/) ([Løsninger kommer online på mandag](materialer/introduktion/solutions))
 
-* `Exercise 1: Unix Commands <exercises/unix_commands/unix_commands.md>`_ (`Solution <exercises/solution/01_strings/unix.rst>`_ (is online Monday))
-* `Exercise 2: Strings1 & Strings2 <exercises/strings/strings.rst>`_  (`Solution <exercises/solution/01_strings/strings.rst>`_ (is online Monday)) 
+#### Quizes
 
-------
-Quizes
-------
 * `Python Strings and Character Data Quiz <https://realpython.com/quizzes/python-strings/>`_
 * `Splitting, Concatenating, and Joining Strings in Python Quiz <https://realpython.com/quizzes/python-split-strings/>`_
-* `Command line Crash Course <_static/CommandLineCrashCourse.pdf>`_ 
-
-
-## Referenceliste
-Her under har du a samlet liste af alle links og eksterne resourcer brugt her på siden. 

@@ -24,14 +24,6 @@ Før vi mødes i klassen skal du have set følgende videoer og løst de tilhøre
 
 > PROMPT: "I would like to have exercises in Python that focus on tuples. Each exercise should cover one of the following topics: Creating a tuple, getting tuple elements, unpacking tuples, help() and dir(). Please give me one exercise at a time, evaluate my answer, and assign a grade from 1 to 10. Based on the evaluation and grade, provide me with another exercise that is either more challenging or easier. You should let me do the exercise before you provide me with any code solution."
 
-* [Sets in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=sBvaPopWOmQ&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=13) (6:33)
-
-> PROMPT: "I would like to have exercises in Python that focus on Sets. Each exercise should cover one of the following topics: Creating a set, set methods (add, remove, discard), union, intersection, using the in operator, help() and dir(). Please give me one exercise at a time, evaluate my answer, and assign a grade from 1 to 10. Based on the evaluation and grade, provide me with another exercise that is either more challenging or easier. You should let me do the exercise before you provide me with any code solution."
-
-* [Python Dictionaries || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=XCcpzWs-CI4&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=15) (6:08)
-
-> PROMPT: "I would like to have some exercises in python covering Dictionaries. Each exercise should include one of the following topics: Creating a dictionary, adding elements, access elements, using the in operator, try/except errors, get(), keys(), values(), items(), help() and dir(). You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me. You should let me do the exercise before you provide me with any code solution."
-
 * [10 Python Comprehensions You SHOULD Be Using](https://www.youtube.com/watch?v=twxE0dEp3qQ)
 
 > PROMPT: "I would like to have some exercises in python covering List Comprehensions. Each exercise should include one of the following topics: basic comprehension, if conditions, if/else conditions, nested loops, caling functions inside a comprehension. All exercises should make a relation between the for loop approch vs the comprehesion approach. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me. You should let me do the exercise before you provide me with any code solution."
@@ -45,15 +37,13 @@ Vi starter med en opsumering af emnerne for i dag, og kommer til at have fokus p
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
-* [list1](../materialer/ses2/list1.ipynb)
-* [list2](../materialer/ses2/list2.ipynb)
-* [Dictionary](../materialer/ses2/dict.ipynb)
-* [Set](../materialer/ses2/set.ipynb)
+* [list1](../materialer/datastrukturer1/list1.ipynb)
+* [list2](../materialer/datastrukturer1/list2.ipynb)
 
 ## Materialer
 ---
 
-* [Kodeeksempler og øvelser fra undervisningen](../materialer/ses2/)
+* [Kodeeksempler og øvelser fra undervisningen](../materialer/datastrukturer1/)
 * [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
 
 ### Øvelser
@@ -118,18 +108,29 @@ Udfra disse 2 lister:
 colors = ['Black', 'White']
 sizes = ['s', 'm', 'l', 'xl']
 ````
-ved hjælp af en list comprehension, lav en liste, der indeholder:
+Skal du finde det der hedder 'Cartesian Product' hvilket vil sige du skal lave en liste der ser sådan ud:
 
-[(‘Black’, ‘s’), (‘Black’, ‘m’), (‘Black’, ‘l’), (‘Black’, ‘xl’), (‘White’, ‘s’), (‘White’, ‘m’), (‘White’, ‘l’), (‘White’, ‘xl’)]
+```
+    [(‘Black’, ‘s’), (‘Black’, ‘m’), (‘Black’, ‘l’), (‘Black’, ‘xl’), (‘White’, ‘s’), (‘White’, ‘m’), (‘White’, ‘l’), (‘White’, ‘xl’)]
+```
 
-Hvis tuple-parret er i følgende liste, skal det ikke tilføjes til den genererede list comprehension.
+Først skal du lave det vha. et **nested for loop**.
+
+Herefter ved hjælp af en list **comprehension**
+
+Herefter skal du fjerne de elemeneter der er i denne liste:
 
 soldout = [('Black', 'm'), ('White', 's')]
+
+Så hvis tuple-parret er i **souldout** listen, skal det ikke tilføjes til den genererede list comprehension.
 
 **Øvelsen med sets**    
 Lav nu øvelsen igen, men hvor colors, sizes og soldout er **sets** i stedet for lister. `colors = {'Black', 'White'}` etc.    
 Du kan i princippet lave denne øvelse meget lig den forrige, men det kan være mere "effektiv" at bruge set operatorer til at lave "soldout"-delen af øvelsen.
 
+**Øvelsen med brug af itertools**
+Du kan også løse dette ved at importere modulet **itertools** og fra det modul bruge `product` functionen.
+Prøv det og lig mærke til forskellen fra dine tidligere løsninger. 
 
 ---
 #### Ex 5: List Comprehension øvelser
