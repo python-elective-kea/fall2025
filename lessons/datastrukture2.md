@@ -13,18 +13,14 @@ Vi fortsætter med at arbejde med datastrukturer og vil i dag have fokus på Set
 ---
 Før vi mødes i klassen skal du have set følgende videoer og løst de tilhørende forståelses opgaver vha. ChatGpt Prompten under linkene:
 
+* [Se de første 7 videoer i denne playliste](https://youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&si=ZvB5iD6OeP284C5-) (1 time 15 min)
+
+Herefter se disse 2 videoer om sets og dicts i python
 
 * [Sets in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=sBvaPopWOmQ&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=13) (6:33)
 
-> PROMPT: "I would like to have exercises in Python that focus on Sets. Each exercise should cover one of the following topics: Creating a set, set methods (add, remove, discard), union, intersection, using the in operator, help() and dir(). Please give me one exercise at a time, evaluate my answer, and assign a grade from 1 to 10. Based on the evaluation and grade, provide me with another exercise that is either more challenging or easier. You should let me do the exercise before you provide me with any code solution."
-
 * [Python Dictionaries || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=XCcpzWs-CI4&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=15) (6:08)
 
-> PROMPT: "I would like to have some exercises in python covering Dictionaries. Each exercise should include one of the following topics: Creating a dictionary, adding elements, access elements, using the in operator, try/except errors, get(), keys(), values(), items(), help() and dir(). You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me. You should let me do the exercise before you provide me with any code solution."
-
-* [10 Python Comprehensions You SHOULD Be Using](https://www.youtube.com/watch?v=twxE0dEp3qQ)
-
-> PROMPT: "I would like to have some exercises in python covering List Comprehensions. Each exercise should include one of the following topics: basic comprehension, if conditions, if/else conditions, nested loops, caling functions inside a comprehension. All exercises should make a relation between the for loop approch vs the comprehesion approach. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me. You should let me do the exercise before you provide me with any code solution."
 
 ## Dagens indhold
 ---
@@ -35,10 +31,9 @@ Vi starter med en opsumering af emnerne for i dag, og kommer til at have fokus p
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
-* [list1](../materialer/ses2/list1.ipynb)
-* [list2](../materialer/ses2/list2.ipynb)
-* [Dictionary](../materialer/ses2/dict.ipynb)
-* [Set](../materialer/ses2/set.ipynb)
+* [Dictionary](../materialer/datastrukturer2/dict.ipynb)
+* [Set](../materialer/datastrukturer2/set.ipynb)
+* [Lotto](../materialer/datastrukturer2/lotto.ipynb)
 
 ## Materialer
 ---
