@@ -5,8 +5,7 @@ Vi fortsætter med at arbejde med datastrukturer og vil i dag have fokus på Set
 ## Læringsmål
 ---        
 - Arbejde med dicts, sets, lister og tuples
-    - Arbejde med deres indeks
-    - Bruge slicing syntaksen
+- Kunne bruge pythons `ittertools` module
 - Kunne arbejde med dict og set comprehensions
 
 ## Forberedelse

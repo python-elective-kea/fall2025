@@ -10,6 +10,8 @@ I vil kunne bruge Sets til at finde unikke værdier i en collection, og i vil ar
     - Arbejde med deres indeks
     - Bruge slicing syntaksen
 - Kende til de vigtigste forskelle mellem lister, tuples, sets og dictionaries
+- Kunne itererer over lister og tuples
+- Kunne sorterer lister vha. build in sorted, herunder at kunne bruge custorm sortering 
 - Kunne oprette lister vha. list comprehensions
 
 ## Forberedelse
@@ -141,12 +143,10 @@ Prøv det og lig mærke til forskellen fra dine tidligere løsninger.
 * Lav en liste af fælles elementer i to givne lister.
 * Lav en liste af ord fra en given streng, der har mere end 4 bogstaver.
 
-### List & Tuples, Set, Dict øvelser
+### List & Tuples øvelser
 ---
 * [list1](../materialer/ses2/list1.ipynb)
 * [list2](../materialer/ses2/list2.ipynb)
-* [Dictionary](../materialer/ses2/dict.ipynb)
-* [Set](../materialer/ses2/set.ipynb)
 
 #### quizes
 * [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)
