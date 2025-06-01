@@ -51,7 +51,7 @@ Vi starter med at gå igennem disse [slides](materialer/introduktion/)
 * [Kode fra undervisningen](../materialer/datastrukturer1/)
 
 ### Øvelser
-* [Strings1 & Strings2](../materialer/introduktion/) ([Løsninger kommer online på mandag](../materialer/introduktion/solutions))
+* [Strings1 & Strings2](../materialer/introduktion/) ([Løsninger](../materialer/introduktion/solutions)(kan ses på mandag))
 
 #### Quizes
 
