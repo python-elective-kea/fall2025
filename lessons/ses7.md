@@ -4,7 +4,7 @@ Før denne lektion bør du have læst og forstået denne tekst [Object-Oriented 
 
 I dag arbejder vi med det grundlæggende i objektorienteret programmering i Python.
 
-## Learning goals
+## Læringsmål
 
 Efter at have arbejdet med disse emner vil du kunne:
 
@@ -13,7 +13,7 @@ Efter at have arbejdet med disse emner vil du kunne:
 * forklare hvornår og hvorfor du bruger classes og objects i stedet for procedure-stil.
 * relatere den pythoniske OOP-stil til andre sprog (f.eks. Java).
 
-## Materials
+## Materialer
 
 - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
 - [Python args and kwargs: Demystified](https://realpython.com/python-kwargs-and-args/)

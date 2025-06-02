@@ -10,7 +10,7 @@
 |    4    |            | [Python - modules, virtual environmnets, requirements.txt](lessons/moduler.md)     |
 |    5    |            | [Obligatorisk opgave](lessons/obligatorisk_1.md)|
 |    6    |            | [Udsagns og prædikat logik (diskret matematik)](lessons/ses4.md)|
-|    7    |            | [Betingelser (boolean logik)](lessons/ses5.md)|
+|    7    |            | [Betingelser (boolean logik)](lessons/boolean.md)|
 |    8    |            | [Funktioner & Decorators](lessons/ses6.md)|
 |         |            | Efterårsferie |
 |    9    |            | [Pythonic OOP](lessons/ses7.md)           |
