@@ -23,7 +23,7 @@ Du kan finde inspiration i disse 2 videoer. Den ene om 2. grads polynomier filme
 
 
 
-Den kvikke studerende har måske lagt mærke til at denne opgave meget minder om hvad du skal forberede til den endelige eksamen. Så hvis du forbereder dig godt er du allerede i gang med eksamensforberedelserne. 
+Den kvikke studerende har måske lagt mærke til at denne opgave meget minder om det ene af emenrne til den endelige eksamen. Så du er altså allerede i gang med eksamensforberedelserne. 
 
 * [Polynimier - Esther ved tavle](https://www.youtube.com/watch?v=VgEdi2yA4NA)
 * [Binære tal - Ben på papir](https://www.youtube.com/watch?v=4qH4unVtJkE)

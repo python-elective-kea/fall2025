@@ -42,7 +42,6 @@ Herefter arbejder vi ping pong med øvelerne til i dag.
 * [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
 
 ### Øvelser
-
 ---
 #### Ex. 3: Comprehensions
 ---
@@ -98,12 +97,13 @@ Prøv det og lig mærke til forskellen fra dine tidligere løsninger.
 * Lav en liste af fælles elementer i to givne lister.
 * Lav en liste af ord fra en given streng, der har mere end 4 bogstaver.
 
-### List & Tuples, Set, Dict øvelser
+### Set, Dict øvelser
 ---
 
 * [Dictionary](../materialer/datastrukturer2/dict.ipynb)
 * [Set](../materialer/datastrukturer2/set.ipynb)
 * [Lotto](../materialer/datastrukturer2/lotto.ipynb)
+* [Word count](https://github.com/python-elective-kea/fall2020/tree/master/sphinx/source/exercises/dict_exercises/count_words_in_file)
 
 #### quizes
 * [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)
