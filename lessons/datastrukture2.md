@@ -46,16 +46,16 @@ Herefter arbejder vi ping pong med øvelerne til i dag.
 ---
 #### Øv 1: subset ($\subset$) og perfect subset ($\subseteq$)
 ---
-På baggrund af disse 2 sets kan du finde ud af om det er ens vha. `==`
+På baggrund af disse 2 sets kan du finde ud af om de er ens ved hjælp af `==` opratoren.
 
 ````
     p = {1, 2, 3, 4, 5}
     q = {1, 2, 3, 4, 5}
 
 ````
-Du vil også kunne finde ud af om de er ens vha. subset ($\subset$) og perfect subset ($\subseteq$). 
+Du vil også kunne finde ud af om de er ens ved hjælp af subset ($\subset$) og perfect subset ($\subseteq$). 
 
-Lav dette med python kode.
+**Lav dette med python kode.**
 
 
 ---
