@@ -42,6 +42,22 @@ Herefter arbejder vi ping pong med øvelerne til i dag.
 * [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
 
 ### Øvelser
+
+---
+#### Øv 1
+---
+På baggrund af disse 2 sets kan du finde ud af om det er ens vha. `==`
+
+````
+    p = {1, 2, 3, 4, 5}
+    q = {1, 2, 3, 4, 5}
+
+````
+Du vil også kunne finde ud af om de er ens vha $\subseteq$ og $\subset$
+
+Lav dette med python kode.
+
+
 ---
 #### Ex. 3: Comprehensions
 ---
