@@ -5,7 +5,7 @@ Efter i dag vil i være i stand til at oprette  Listes og Tupler, tilgå deres e
 I vil kunne bruge Sets til at finde unikke værdier i en collection, og i vil arbejde med Dictionaries og forstå dens key : Value struktur.
 
 ## Læringsmål
----        
+      
 - Arbejde med lister, tuples, dicts og sets
     - Arbejde med deres indeks
     - Bruge slicing syntaksen
@@ -15,7 +15,7 @@ I vil kunne bruge Sets til at finde unikke værdier i en collection, og i vil ar
 - Kunne oprette lister vha. list comprehensions
 
 ## Forberedelse
----
+
 Før vi mødes i klassen skal du have set følgende videoer og løst de tilhørende forståelses opgaver vha. ChatGpt Prompten under linkene:
 
 * [Python Lists || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=ohCDWZgNIU0) (5:43)
@@ -31,7 +31,7 @@ Før vi mødes i klassen skal du have set følgende videoer og løst de tilhøre
 > PROMPT: "I would like to have some exercises in python covering List Comprehensions. Each exercise should include one of the following topics: basic comprehension, if conditions, if/else conditions, nested loops, caling functions inside a comprehension. All exercises should make a relation between the for loop approch vs the comprehesion approach. You should give me one exercise at the time, and then evaluate my answer and grade it with a grade from 1 to 10. Then give me another exercise that is either harder or easier based on the evaluation and grade you gave me. You should let me do the exercise before you provide me with any code solution."
 
 ## Dagens indhold
----
+
 Vi starter med en opsumering af emnerne for i dag, og kommer til at have fokus på:
 * Hvad de forskellige datastrukturer bruges til. 
 * Slicing og manipulation
@@ -40,7 +40,6 @@ Vi starter med en opsumering af emnerne for i dag, og kommer til at have fokus p
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
 ## Materialer
----
 
 * [Kodeeksempler og øvelser fra undervisningen](../materialer/datastrukturer1/)
 * [Ping/pong øvelser i klassen](../materialer/datastrukturer1/exercises.ipynb)
