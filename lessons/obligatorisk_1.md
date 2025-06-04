@@ -1,23 +1,26 @@
 
-# Obligatorisk opgave 1
-
-
-<!--
-## Læringsmål
+# Google job interview
+Obligatorisk opgave
 
 ## Opgavebeskrivelse
+
+1. Start med at se denne [introduktionsvideo]() til opgaven.
+2. Efterfølgende skal du starte selve opgaven med at se denne video: [How to: Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw)
+3. Herefter skal du udvælge en af de kodeeksempler som Edward viser i videoen, og oversætte det til python kode.
+4. Til sidst skal du lave en screencast video af dig der livekoder eksemplet i din editor. Du skal forklare din kode mens du skriver den.
 
 Du skal starte med at se videoen: [How to: Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw).    
 Herefter er din opgave at omforme en af de to løsninger på problemet som Edward skriver i C++ til python kode.
 
-Afleveringen er at du skal lave en screen cast video på max 5 minutter af dig der livekoder denne løsning.
+Du skal lave og aflevere en screen cast video på max 5 minutter. 
+Videoen skal være af dig der livekoder denne løsning, samtidig med at du forklarer din kode.
 
-* Du må ikke bruge nogen form for LLM i din video. 
+* Du må ikke bruge nogen form for LLM under optagelsen af din video. 
     * Slå Copilot eller hvad du ellers har i din editor fra.
 * Din editor må dog gerne bruge intellisence.
 * Du må ikke klippe/redigere i din video (one take!)
 
-* Hvis du føler dig rigtigt oven på i denne opgave kan du vælge at skrive din kode på en tavle (som Edward) eller på et stykke papir medens du optager det.
+* Hvis du føler dig oven på i denne opgave kan du vælge at skrive din kode på en tavle (som Edward) eller på et stykke papir mens du optager det.
 
 
 
@@ -26,7 +29,7 @@ Afleveringen er at du skal lave en screen cast video på max 5 minutter af dig d
 * [Introvideo Claus]()
 * [How to: Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw)
 
--->
+
 
 
 

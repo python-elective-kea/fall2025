@@ -39,115 +39,14 @@ Vi starter med en opsumering af emnerne for i dag, og kommer til at have fokus p
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
-* [list1](../materialer/datastrukturer1/list1.ipynb)
-* [list2](../materialer/datastrukturer1/list2.ipynb)
-
 ## Materialer
 ---
 
 * [Kodeeksempler og øvelser fra undervisningen](../materialer/datastrukturer1/)
-* [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
-
-### Øvelser
-
----
-### 1: Is it a tuple or a list?
----
-The following data should be presented as either a list or a tuple, or as a combination of both.      
-Your job is to choose the right one.     
-Hint: A list is a collection of the same type of data, a tuple is a record (e.g. in a database a **record** is called a **row**)     
-
-1. Claus, 51, male, clbo@kea.dk, 31011970-1313
-2. Bmw, Toyota, Hyundai, Skoda, Fiat, Volvo
-3. Claus, Henning, Torben, Carl, Tine
-4. 'Hello', 'World', 'Huston', 'we', 'are', 'here'
-5. Rolling Stones, Goats Head Soup, 31 August 1973, 46:56
-6. 40.730610, -73.935242, New York City, NY, USA; 31.739847, 65.755920, Kandahar, Kandahar Province, Afghanistan;
-
-<hr>
-
----
-#### Ex 2: Slicing
----
-By using the slicing syntax change the following collections.
-
-After slicing:
-
-```
-['Hello', 'World', 'Huston', 'we', 'are', 'here'] should become -> ['World', 'Huston', 'we', 'are']
-['Hello', 'World', 'Huston', 'we', 'are', 'here'] -> ['Hello', 'World']
-['Hello', 'World', 'Huston', 'we', 'are', 'here'] -> ['are', 'here']
-['Hello', 'World', 'Huston', 'we', 'are', 'here'] -> ['are']
-['Hello', 'World', 'Huston', 'we', 'are', 'here'] -> ['Hello', 'Huston', 'are']
-['Hello', 'World', 'Huston', 'we', 'are', 'here'] -> ['here', 'are', 'we', 'Huston', 'World', 'Hello']
-('Hello', 'World', 'Huston', 'we', 'are', 'here') should become -> ['World', 'Huston', 'we', 'are']
-'Hello World Huston we are here' -> 'World Huston we'
-``` 
-
-Figure out more on your own and practice this a lot!    
-
-<hr>
-
----
-#### Ex. 3: Comprehensions
----
-
-Alfabet List Comprehensions
-
-Lav en liste af store bogstaver i det engelske alfabet
-
-Lav en liste af store bogstaver fra det engelske alfabet, men udelad 4 med Unicode-kodepunktet enten 70, 75, 80, 85.
-
-Lav en liste af store bogstaver fra det engelske alfabet, men udelad hvert andet bogstav mellem F & O
-
----
-#### Ex 4: Tøjliste Comprehension
----
-
-Udfra disse 2 lister:
-
-````
-colors = ['Black', 'White']
-sizes = ['s', 'm', 'l', 'xl']
-````
-Skal du finde det der hedder 'Cartesian Product' hvilket vil sige du skal lave en liste der ser sådan ud:
-
-```
-    [(‘Black’, ‘s’), (‘Black’, ‘m’), (‘Black’, ‘l’), (‘Black’, ‘xl’), (‘White’, ‘s’), (‘White’, ‘m’), (‘White’, ‘l’), (‘White’, ‘xl’)]
-```
-
-Først skal du lave det vha. et **nested for loop**.
-
-Herefter ved hjælp af en list **comprehension**
-
-Herefter skal du fjerne de elemeneter der er i denne liste:
-
-soldout = [('Black', 'm'), ('White', 's')]
-
-Så hvis tuple-parret er i **souldout** listen, skal det ikke tilføjes til den genererede list comprehension.
-
-**Øvelsen med sets**    
-Lav nu øvelsen igen, men hvor colors, sizes og soldout er **sets** i stedet for lister. `colors = {'Black', 'White'}` etc.    
-Du kan i princippet lave denne øvelse meget lig den forrige, men det kan være mere "effektiv" at bruge set operatorer til at lave "soldout"-delen af øvelsen.
-
-**Øvelsen med brug af itertools**
-Du kan også løse dette ved at importere modulet **itertools** og fra det modul bruge `product` functionen.
-Prøv det og lig mærke til forskellen fra dine tidligere løsninger. 
-
----
-#### Ex 5: List Comprehension øvelser
----
-* Lav en liste af lige tal fra 0 til 20.
-* Lav en liste af kvadrater af tal fra 1 til 10.
-* Lav en liste af alle vokaler i en given streng.
-* Lav en liste af fælles elementer i to givne lister.
-* Lav en liste af ord fra en given streng, der har mere end 4 bogstaver.
-
-### List & Tuples øvelser
----
-* [list1](../materialer/ses2/list1.ipynb)
-* [list2](../materialer/ses2/list2.ipynb)
-
-#### quizes
+* [Ping/pong øvelser i klassen](../materialer/datastrukturer1/exercises.ipynb)
+* [Øvelse: list1](../materialer/datastrukturer1/list1.ipynb)
+* [Øvelse: list2](../materialer/datastrukturer1/list2.ipynb)
 * [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)
 * ["while" Loops Quiz](https://realpython.com/quizzes/python-while-loop/)
+
+
