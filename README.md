@@ -5,8 +5,8 @@
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
 |    1    |            | [Introduktion til python](lessons/ses1.md)                |
-|    2    |            | [Python - datastrukture (Lister og tuples)](lessons/datastrukture1.md)                 |
-|    3    |            | [Python - datastrukture (sets og dictionaries)](lessons/datastrukture2.md)                 |
+|    2    |            | [Datastrukture (Lister og tuples)](lessons/datastrukture1.md)                 |
+|    3    |            | [Datastrukture \{sets og dictionaries\}](lessons/datastrukture2.md)                 |
 |    4    |            | [Python - modules, virtual environmnets, requirements.txt](lessons/moduler.md)     |
 |    5    |            | [Obligatorisk opgave](lessons/obligatorisk_1.md)|
 |    6    |            | [Udsagns og prædikat logik (diskret matematik)](lessons/ses4.md)|
