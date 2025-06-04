@@ -37,9 +37,9 @@ Herefter arbejder vi ping pong med øvelerne til i dag.
 ## Materialer
 ---
 
-* [Efficient Use of Python Data Structures](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#efficient-use-of-python-data-structures)
-* [Utilize List Comprehensions and Generator Expressions](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#utilize-list-comprehensions-and-generator-expressions)
-* [Leveraging Built-in Functions and Libraries](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#leveraging-built-in-functions-and-libraries)
+* [Efficient Use of Python Data Structures](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#efficient-use-of-python-data-structures) (læs kun afsnittet, ikke hele artiklen)
+* [Utilize List Comprehensions and Generator Expressions](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#utilize-list-comprehensions-and-generator-expressions) (læs kun afsnittet, ikke hele artiklen)
+* [Leveraging Built-in Functions and Libraries](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#leveraging-built-in-functions-and-libraries) (læs kun afsnittet, ikke hele artiklen)
 * [Kodeeksempler og øvelser fra undervisningen](../materialer/ses2/)
 
 
