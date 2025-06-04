@@ -1,4 +1,4 @@
-# Python - Datastrukture Sets og Dictionaries
+# Datastrukture Sets og Dictionaries
 
 Vi fortsætter med at arbejde med datastrukturer og vil i dag have fokus på Sets og dictionaries.
 
@@ -24,10 +24,9 @@ Herefter se disse 2 videoer om sets og dicts i python
 
 ## Dagens indhold
 ---
-Vi starter med en opsumering af emnerne for i dag, og kommer til at have fokus på:
-* Hvad de forskellige datastrukturer bruges til. 
-* Slicing og manipulation
-* list comprehensions. 
+Vi starter med en opsumering af Set teori, og forbinder det til python sets.
+
+
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
@@ -38,8 +37,11 @@ Herefter arbejder vi ping pong med øvelerne til i dag.
 ## Materialer
 ---
 
+* [Efficient Use of Python Data Structures](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#efficient-use-of-python-data-structures)
+* [Utilize List Comprehensions and Generator Expressions](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#utilize-list-comprehensions-and-generator-expressions)
+* [Leveraging Built-in Functions and Libraries](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#leveraging-built-in-functions-and-libraries)
 * [Kodeeksempler og øvelser fra undervisningen](../materialer/ses2/)
-* [Python Course at Kaggle](https://www.kaggle.com/code/colinmorris/hello-python)
+
 
 ### Øvelser
 

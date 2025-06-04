@@ -1,6 +1,41 @@
-<!--
+
 # Obligatorisk opgave 1
 
+
+<!--
+## Læringsmål
+
+## Opgavebeskrivelse
+
+Du skal starte med at se videoen: [How to: Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw).    
+Herefter er din opgave at omforme en af de to løsninger på problemet som Edward skriver i C++ til python kode.
+
+Afleveringen er at du skal lave en screen cast video på max 5 minutter af dig der livekoder denne løsning.
+
+* Du må ikke bruge nogen form for LLM i din video. 
+    * Slå Copilot eller hvad du ellers har i din editor fra.
+* Din editor må dog gerne bruge intellisence.
+* Du må ikke klippe/redigere i din video (one take!)
+
+* Hvis du føler dig rigtigt oven på i denne opgave kan du vælge at skrive din kode på en tavle (som Edward) eller på et stykke papir medens du optager det.
+
+
+
+
+## Materialer
+* [Introvideo Claus]()
+* [How to: Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw)
+
+-->
+
+
+
+
+
+
+
+
+<!--
 ## Læringsmål
 
 * Kunne forklare en udvalgt del af emnet python datastrukture.
