@@ -30,9 +30,9 @@ Vi starter med en opsumering af Set teori, og forbinder det til python sets.
 
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
-* [Dictionary](../materialer/datastrukturer2/dict.ipynb)
-* [Set](../materialer/datastrukturer2/set.ipynb)
-* [Lotto](../materialer/datastrukturer2/lotto.ipynb)
+* [Dictionary](../materialer/datastrukturer2/exercises/dict.ipynb)
+* [Set](../materialer/datastrukturer2/exercises/set.ipynb)
+* [Lotto](../materialer/datastrukturer2/exercises/lotto.ipynb)
 
 ## Materialer
 ---
@@ -118,9 +118,9 @@ Prøv det og lig mærke til forskellen fra dine tidligere løsninger.
 ### Set, Dict øvelser
 ---
 
-* [Dictionary](../materialer/datastrukturer2/dict.ipynb)
-* [Set](../materialer/datastrukturer2/set.ipynb)
-* [Lotto](../materialer/datastrukturer2/lotto.ipynb)
+* [Dictionary](../materialer/datastrukturer2/exercises/dict.ipynb)
+* [Set](../materialer/datastrukturer2/exercises/set.ipynb)
+* [Lotto](../materialer/datastrukturer2/exercises/lotto.ipynb)
 * [Word count](https://github.com/python-elective-kea/fall2020/tree/master/sphinx/source/exercises/dict_exercises/count_words_in_file)
 
 #### quizes
