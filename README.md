@@ -4,7 +4,7 @@
 
 | Lektion |    Dato    |       Emne                            |
 |:-----:|:---------:|:----------------------------------------------------------|
-|    1    |            | [Introduktion til python](lessons/ses1.md)                |
+|    1    |            | [Introduktion til python](materialer/introduktion/introduktion.md)                |
 |    2    |            | [Datastrukture (Lister og tuples)](lessons/datastrukture1.md)                 |
 |    3    |            | [Datastrukture \{sets og dictionaries\}](lessons/datastrukture2.md)                 |
 |    4    |            | [Python - modules, virtual environmnets, requirements.txt](lessons/moduler.md)     |
@@ -22,7 +22,7 @@
 |   15    |            | Eksamensforberedelse og vejledning |
 
 ## Om valgfaget
-* [Læs mere om vagfaget her](formalia/about_this_elective.md)
+* [Læs mere om vagfaget her](materialer/formalia/about_this_elective.md)
 
 ## Eksamen
-* [Eksamen i dette valgfag er beskrevet her](formalia/exam.md)
+* [Eksamen i dette valgfag er beskrevet her](materialer/formalia/exam.md)
