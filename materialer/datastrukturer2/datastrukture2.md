@@ -1,0 +1,126 @@
+# Datastrukture \{sets og dictionaries\}
+
+Vi fortsætter legen med datastrukturer og vil i dag have fokus på Sets og Dictionaries.
+
+## Læringsmål
+---        
+- Arbejde med dicts, sets, (lister og tupler)
+- Kunne arbejde med dict og set comprehensions
+- kunne bruge build in fuktioner som: `enumerate`, `range`
+- Kunne bruge pythons `ittertools` module
+
+## Forberedelse
+---
+* [Se de første 7 videoer i denne playliste](https://youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&si=ZvB5iD6OeP284C5-) (1 time 15 min)
+
+Herefter se disse 2 videoer om sets og dicts i python
+
+* [Sets in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=sBvaPopWOmQ&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=13) (6:33)
+
+* [Python Dictionaries || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=XCcpzWs-CI4&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=15) (6:08)
+
+
+## Dagens indhold
+---
+Vi starter med en opsumering af Set teori, og forbinder det til python sets.
+
+
+
+Herefter arbejder vi ping pong med øvelerne til i dag.
+
+* [Dictionary](../materialer/datastrukturer2/exercises/dict.ipynb)
+* [Set](../materialer/datastrukturer2/exercises/set.ipynb)
+* [Lotto](../materialer/datastrukturer2/exercises/lotto.ipynb)
+
+## Materialer
+---
+
+* [Efficient Use of Python Data Structures](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#efficient-use-of-python-data-structures) (læs kun afsnittet, ikke hele artiklen)
+* [Utilize List Comprehensions and Generator Expressions](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#utilize-list-comprehensions-and-generator-expressions) (læs kun afsnittet, ikke hele artiklen)
+* [Leveraging Built-in Functions and Libraries](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#leveraging-built-in-functions-and-libraries) (læs kun afsnittet, ikke hele artiklen)
+* [Kodeeksempler og øvelser fra undervisningen](../materialer/ses2/)
+
+
+### Øvelser
+
+---
+#### Øv 1: subset ($\subset$) og perfect subset ($\subseteq$)
+---
+På baggrund af disse 2 sets kan du finde ud af om de er ens ved hjælp af `==` opratoren.
+
+````
+    p = {1, 2, 3, 4, 5}
+    q = {1, 2, 3, 4, 5}
+
+````
+Du vil også kunne finde ud af om de er ens ved hjælp af subset ($\subset$) og perfect subset ($\subseteq$). 
+
+**Lav dette med python kode.**
+
+
+---
+#### Ex. 3: Comprehensions
+---
+
+Alfabet List Comprehensions
+
+1. Lav en liste af store bogstaver i det engelske alfabet
+2. Lav en liste af store bogstaver fra det engelske alfabet, men udelad 4 med Unicode-kodepunktet enten 70, 75, 80, 85.
+3. Lav en liste af store bogstaver fra det engelske alfabet, men udelad hvert andet bogstav mellem F & O
+
+---
+#### Ex 4: Tøjliste Comprehension
+---
+
+Udfra disse 2 lister:
+
+````
+colors = ['Black', 'White']
+sizes = ['s', 'm', 'l', 'xl']
+````
+Skal du finde det der hedder 'Cartesian Product' hvilket vil sige du skal lave en liste der ser sådan ud:
+
+```
+    [(‘Black’, ‘s’), (‘Black’, ‘m’), (‘Black’, ‘l’), (‘Black’, ‘xl’), (‘White’, ‘s’), (‘White’, ‘m’), (‘White’, ‘l’), (‘White’, ‘xl’)]
+```
+**Nested for loop**    
+Først skal du lave det vha. et **nested for loop**.
+
+**List comprehension**
+Herefter ved hjælp af en list **comprehension**
+
+**Sold out**
+Herefter skal du fjerne de elemeneter der er i denne liste:
+
+soldout = [('Black', 'm'), ('White', 's')]
+
+Så hvis tuple-parret er i **souldout** listen, skal det ikke tilføjes til den genererede list comprehension.
+
+**Øvelsen med sets**    
+Lav nu øvelsen igen, men hvor colors, sizes og soldout er **sets** i stedet for lister. `colors = {'Black', 'White'}` etc.    
+Du kan i princippet lave denne øvelse meget lig den forrige, men det er mere "effektiv" at bruge set operatorer til at lave "soldout"-delen af øvelsen.
+
+**Øvelsen med brug af itertools**
+Du kan også løse dette ved at importere modulet **itertools** og fra det modul bruge `product` functionen.
+Prøv det og lig mærke til forskellen fra dine tidligere løsninger. 
+
+---
+#### Ex 5: List Comprehension øvelser
+---
+* Lav en liste af lige tal fra 0 til 20.
+* Lav en liste af kvadrater af tal fra 1 til 10.
+* Lav en liste af alle vokaler i en given streng.
+* Lav en liste af fælles elementer i to givne lister.
+* Lav en liste af ord fra en given streng, der har mere end 4 bogstaver.
+
+### Set, Dict øvelser
+---
+
+* [Dictionary](../materialer/datastrukturer2/exercises/dict.ipynb)
+* [Set](../materialer/datastrukturer2/exercises/set.ipynb)
+* [Lotto](../materialer/datastrukturer2/exercises/lotto.ipynb)
+* [Word count](https://github.com/python-elective-kea/fall2020/tree/master/sphinx/source/exercises/dict_exercises/count_words_in_file)
+
+#### quizes
+* [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)
+* ["while" Loops Quiz](https://realpython.com/quizzes/python-while-loop/)
