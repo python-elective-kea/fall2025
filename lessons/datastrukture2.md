@@ -11,8 +11,6 @@ Vi fortsætter med at arbejde med datastrukturer og vil i dag have fokus på Set
 
 ## Forberedelse
 ---
-Før vi mødes i klassen skal du have set følgende videoer og løst de tilhørende forståelses opgaver vha. ChatGpt Prompten under linkene:
-
 * [Se de første 7 videoer i denne playliste](https://youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&si=ZvB5iD6OeP284C5-) (1 time 15 min)
 
 Herefter se disse 2 videoer om sets og dicts i python
