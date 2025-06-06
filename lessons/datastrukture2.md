@@ -1,13 +1,13 @@
 # Datastrukture \{sets og dictionaries\}
 
-Vi fortsætter med at arbejde med datastrukturer og vil i dag have fokus på Sets og dictionaries.
+Vi fortsætter legen med datastrukturer og vil i dag have fokus på Sets og Dictionaries.
 
 ## Læringsmål
 ---        
-- Arbejde med dicts, sets, lister og tuples
-- Kunne bruge pythons `ittertools` module
+- Arbejde med dicts, sets, (lister og tupler)
 - Kunne arbejde med dict og set comprehensions
 - kunne bruge build in fuktioner som: `enumerate`, `range`
+- Kunne bruge pythons `ittertools` module
 
 ## Forberedelse
 ---
