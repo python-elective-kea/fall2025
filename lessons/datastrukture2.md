@@ -1,4 +1,4 @@
-# Datastrukture Sets og Dictionaries
+# Datastrukture \{sets og dictionaries\}
 
 Vi fortsætter med at arbejde med datastrukturer og vil i dag have fokus på Sets og dictionaries.
 
