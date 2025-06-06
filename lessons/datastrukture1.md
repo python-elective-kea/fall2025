@@ -16,7 +16,7 @@ I vil kunne bruge Sets til at finde unikke værdier i en collection, og i vil ar
 
 ## Forberedelse
 
-Før vi mødes i klassen skal du have set følgende videoer og løst de tilhørende forståelses opgaver vha. ChatGpt Prompten under linkene:
+Før vi mødes i klassen skal du have set følgende videoer og løst de tilhørende forståelses opgaver vha. Chat Prompten under linkene:
 
 * [Python Lists || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=ohCDWZgNIU0) (5:43)
    
