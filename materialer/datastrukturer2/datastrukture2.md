@@ -19,6 +19,8 @@ Herefter se disse 2 videoer om sets og dicts i python
 
 * [Python Dictionaries || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=XCcpzWs-CI4&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=15) (6:08)
 
+* [DICTIONARIES AND STRUCTURING DATA](https://automatetheboringstuff.com/2e/chapter5/)
+
 
 ## Dagens indhold
 ---
