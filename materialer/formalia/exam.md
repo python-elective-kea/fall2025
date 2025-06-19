@@ -8,7 +8,7 @@ Et par uger inden den mundtlige eksamen skal du aflevere din synopsis på Wisefl
 
 * Max en A4 side (alle 4 emner skal være på en A4 side).
 * Giv en kort beskrivelse, eventuelt i punktform af hvad du vil præsentere inden for hvert emne til eksamenen. 
-* Du kan se et eksempel på en synopsis [her](formalia/exam_synopsis_template.md)
+* Du kan se et eksempel på en synopsis [her](exam_synopsis_template.md)
 
 Husk, at en god synopsis klart og præcist præsenterer dit emne, formålet med din præsentation og de vigtigste punkter, du vil dække. Det gør det nemmere for dem, der skal vurdere dig, at følge din præsentation og bedømme din præstation.
 
@@ -35,7 +35,7 @@ Oprettelse, tilføje og fjerne elementer, forskelle på de 4 datastrukturer, eks
 **Udsagns- og boolsk logik**    
 Sandhedstabeller for AND, OR, NOT. 
 
-Du kan lade dig inspirere i forhold til hvad du skal snakke om i denne [synopsis template](formalia/exam_synopsis_template.md)
+Du kan lade dig inspirere i forhold til hvad du skal snakke om i denne [synopsis template](exam_synopsis_template.md)
 
 ## Karaktergivning
 Eksamen bedømmes efter 7-trinsskalaen.
