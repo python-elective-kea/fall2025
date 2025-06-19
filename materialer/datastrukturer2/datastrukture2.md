@@ -4,18 +4,22 @@ Vi fortsætter legen med datastrukturer og vil i dag have fokus på Sets og Dict
 
 ## Læringsmål
 ---        
-- Arbejde med dicts, sets, (lister og tupler)
+- Arbejde med dicts, sets, lister og tupler
 - Kunne arbejde med dict og set comprehensions
-- kunne bruge build in fuktioner som: `enumerate`, `range`
+- kunne bruge build in fuktioner som: `enumerate`, `range` i forbindelse med loops
 - Kunne bruge pythons `ittertools` module
 
 ## Forberedelse
 ---
 * [Se de første 7 videoer i denne playliste](https://youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&si=ZvB5iD6OeP284C5-) (1 time 15 min)
 
-Herefter se disse 2 videoer om sets og dicts i python
+Herefter se denne video om "Sets in python"
 
 * [Sets in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=sBvaPopWOmQ&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=13) (6:33)
+
+Til sidst skal du gennemgå sektion 5.1, 5.2 og 5.3 om set teori og python i det følgende
+
+* [Discrete Math - GeoigiaSet Theory](https://ggc-discrete-math.github.io/set_theory.html)
 
 * [Python Dictionaries || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=XCcpzWs-CI4&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=15) (6:08)
 

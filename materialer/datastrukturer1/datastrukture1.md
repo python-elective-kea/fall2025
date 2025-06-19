@@ -6,11 +6,13 @@ I vil kunne bruge Sets til at finde unikke værdier i en collection, og i vil ar
 
 ## Læringsmål
       
-- Arbejde med lister, tuples, dicts og sets
+- Kunne arbejde med lister, tuples
     - Arbejde med deres indeks
     - Bruge slicing syntaksen
-- Kende til de vigtigste forskelle mellem lister, tuples, sets og dictionaries
+- Kende til de vigtigste forskelle mellem lister, tuples
 - Kunne itererer over lister og tuples
+    - kunne bruge og forklare brugen af `enumerate` funktionen
+    - kunne bruge og forklare brugen af `range` funktionen
 - Kunne sorterer lister vha. build in sorted, herunder at kunne bruge custorm sortering 
 - Kunne oprette lister vha. list comprehensions
 

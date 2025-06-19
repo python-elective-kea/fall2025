@@ -12,7 +12,7 @@ In my presentation, I will focus on encapsulation and how it is achieved through
 A list of Python's built-in functions can be found here: Python Built-in Functions.
 In my presentation, I will demonstrate how to utilize a selection of these functions, emphasizing their ease of use and how they enhance user interaction with the language. Furthermore, I will demonstrate how to integrate these uniform interfaces with one's own objects using data model methods. 
 
-## 4. Data analyse & visualization 
+## 4. Udsagns, prædikat og boolsk logik
 No example
 
 
