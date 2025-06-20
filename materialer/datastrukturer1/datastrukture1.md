@@ -43,10 +43,10 @@ Herefter arbejder vi ping pong med øvelerne til i dag.
 
 ## Materialer
 
-* [Kodeeksempler og øvelser fra undervisningen](../materialer/datastrukturer1/)
-* [Ping/pong øvelser i klassen](../materialer/datastrukturer1/exercises.ipynb)
-* [Øvelse: list1](../materialer/datastrukturer1/list1.ipynb)
-* [Øvelse: list2](../materialer/datastrukturer1/list2.ipynb)
+* [Kodeeksempler og øvelser fra undervisningen](datastrukturer1/)
+* [Ping/pong øvelser i klassen](exercises.ipynb)
+* [Øvelse: list1](list1.ipynb)
+* [Øvelse: list2](list2.ipynb)
 * [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)
 * ["while" Loops Quiz](https://realpython.com/quizzes/python-while-loop/)
 
