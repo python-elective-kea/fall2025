@@ -44,8 +44,8 @@ Eksamen bedømmes efter 7-trinsskalaen.
 
 ## Gode råd og regler vedrørende eksamenen
 
-* Du må medbringe så mange forberedte eksempler som du har lyst til, og du er velkommen til trække et eksempel frem som understøttelse til din svar på mine spørgsmål. Da du bliver bedømt på din forklaring og forståelse af eksemplerne og ikke eksemplerne i sig selv, skal du sørge for at forstå det du tager med til eksamenen. 
 * Du skal forvente at skulle livekode under eksaminationen.
+* Du må medbringe så mange forberedte eksempler som du har lyst til, og du er velkommen til trække et eksempel frem som understøttelse til din svar på mine spørgsmål. Da du bliver bedømt på din forklaring og forståelse af eksemplerne og ikke eksemplerne i sig selv, skal du sørge for at forstå det du tager med til eksamenen. 
 * Det er ikke tilladt at få hjælp af en LLM under selve eksaminationen, hverken gennem chatten, eller gennem din editors LLM integration (feks. Copilot i VS Code eller de mange muligheder i editoren Cursor).
 * Du må dog gerne have din editors intellisence slået til (men altså ikke LLM genereret code completion).
 * Du vil blive bedømt på din forståelse af og evne til at forklare dine kode, så det er en god ide at øve dine eksempler meget inden selve eksamenen.  
