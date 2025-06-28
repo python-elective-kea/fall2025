@@ -45,6 +45,7 @@ Herefter arbejder vi ping pong med øvelerne til i dag.
 
 * [Kodeeksempler og øvelser fra undervisningen](datastrukturer1/)
 * [Ping/pong øvelser i klassen](exercises.ipynb)
+* [Øvelse: Build in functions og lister](build_in_functions_og_lister.ipynb)
 * [Øvelse: list1](list1.ipynb)
 * [Øvelse: list2](list2.ipynb)
 * [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)

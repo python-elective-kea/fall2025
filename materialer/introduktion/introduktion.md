@@ -49,6 +49,7 @@ Vi starter med at gå igennem disse [slides](materialer/introduktion/)
 * [if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 * [Notes from teachings](materialer/introduktion/notes_01.md)
 * [Kode fra undervisningen](../materialer/datastrukturer1/)
+* [The PyCoder’s Weekly](https://pycoders.com/issues/687)
 
 ### Øvelser
 * [Strings1 & Strings2](../materialer/introduktion/) ([Løsninger](../materialer/introduktion/solutions)(kan ses på mandag))

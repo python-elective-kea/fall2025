@@ -3,6 +3,15 @@
 ## Eksamensformat
 Eksamen i dette valgfag er en mundtlig prøve baseret på en synopsis.
 
+## Eksamensemnerne
+Til din eksamen skal du demonstrere, i hvor høj grad du opfylder læringsmålene for dette valgfag. Dette skal du gøre ved at demonstrere din viden, dine færdigheder og dine kompetencer inden for disse emner:
+
+1. Pythons datastrukturer
+2. Udsagns, prædikat og boolsk logik
+3. Pythonic OOP
+4. Funktioner i Python (Indbyggede funktioner, funktioner generelt, dekoratorer osv.)
+
+
 ## Synopsis aflevering
 Et par uger inden den mundtlige eksamen skal du aflevere din synopsis på Wiseflow. Hvis du ikke gør dette kan du ikke komme til den efterfølgende mundtlige eksamen. Synopsen skal følge disse retningslinier:
 
@@ -19,14 +28,7 @@ Husk, at en god synopsis klart og præcist præsenterer dit emne, formålet med 
 * Hold din 10-minutters præsentation om det valgte emne.
 * Efter din præsentation følger en 10-minutters eksamination inden for dette emne og andre relaterede emner.
 
-## Eksamensemnerne
-Til din eksamen skal du demonstrere, i hvor høj grad du opfylder læringsmålene for dette valgfag. Dette skal du gøre ved at demonstrere din viden, dine færdigheder og dine kompetencer inden for disse emner:
-
-* Pythons datastrukturer
-* Udsagns, prædikat og boolsk logik
-* Pythonic OOP
-* Funktioner i Python (Indbyggede funktioner, funktioner generelt, dekoratorer osv.)
-
+## Uddybning af eksamensemnerne
 I forhold til hvad hvert emne vil kunne indeholde, så skal du snakke ud fra de ting vi har været igennem i undervisningen. Herunder det som har været præsenteret i litteraturen til valgfaget. Du vil kunne finde alt det i hvert sessions materiale afsnit. Du skal ikke dække alle elementer af hvert emne, men vælger selv hvilke du mener er mest interessante. Herunder er en liste over de emner vi har været igennem i dette semester.     
 
 **Pythons datastrukturer** 
