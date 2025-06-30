@@ -39,7 +39,9 @@ Inden vi mødes skal i have installeret:
 
 ## Dagen i dag
 
-Vi starter med at gå igennem disse [slides](materialer/introduktion/)
+Vi starter med at gå igennem disse 
+* [slides.ipynb](slides_intro.ipynb)
+* [slides.html](slides_intro.slides.html)
 
 ## Materialer
 
