@@ -18,7 +18,7 @@ Hvis du vil kunne bruge :code:`in` nøgleordet på dit objekt, skal du implement
 
 ##Læringsmål
 
-    * Opret dine egne klasser, der opfører sig som ethvert andet Python-objekt og er i stand til at interagere med Pythons indbyggede funktioner eller topniveau-syntaks.
+    * Opret dine egne klasser, der opfører sig som ethvert andet Python-objekt og er i stand til at interagere med Pythons buildin functions eller top level syntaks.
 
 ## Materialer
 
@@ -29,7 +29,7 @@ Hvis du vil kunne bruge :code:`in` nøgleordet på dit objekt, skal du implement
 * [Expert Python Tutorial #2 - Dunder/Magic Methods & The Python Data Model](https://www.youtube.com/watch?v=z11P9sojHuM)
 * [Build in functions to Datamodel methods relation table](notebooks/build_to_dunder.rst)
 * [Notebook on Datamodel](notebooks/OOP_Encapsulation_Propeties.ipynb#Datamodel)
-* [Code examples from teachings](https://github.com/python-elective-kea/fall2023-code-examples-from-teachings/tree/master/ses9)
+* [Money datamodel demo](money.ipynb)
 * [Øvelser](exercises.md)
 <!--
 * [Notebook demo Value class in teachings](notebooks/oop_lecture_value_graphviz.ipynb)

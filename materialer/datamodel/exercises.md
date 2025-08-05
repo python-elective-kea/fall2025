@@ -35,3 +35,22 @@ Klassen skal mindst kunne lægges sammen, trækkes fra, ganges og divideres.
 ## Linked List
 
 [Linked List](exercises/protocol_linked_list.rst)
+
+## Point class
+Med denne kode som udgangspunkt
+````
+    class Point:
+        def __init__(self, x, y):
+            self.x = x
+            self.y = y
+````
+Gør objectet i stand til at bruge +,-,* operatorene.
+Feks. med denne brug af objektet:
+
+````
+    v1 = Point(1,2)
+    v2 = Point(2,3)
+    v3 = v1 + v2
+    >>>
+````
+

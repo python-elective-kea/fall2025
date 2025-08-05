@@ -15,7 +15,7 @@ Læs dette kapitel fra bogen "Automate the Boring Stuff with Python":
 
 ## Materialer
 * [FLOW CONTROL](https://automatetheboringstuff.com/2e/chapter2/)
-
+*
 
 ## Øvelser
 

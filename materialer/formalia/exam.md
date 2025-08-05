@@ -23,7 +23,7 @@ Husk, at en god synopsis klart og præcist præsenterer dit emne, formålet med 
 
 ## Den mundtlige eksamen
 
-* Før eksamen skal du have forberedt en 10-minutters præsentation for hvert af de 4 emner. 
+* Inden selve eksamen skal du have forberedt en 10-minutters præsentation for hvert af de 4 emner. 
 * I begyndelsen af eksamen trækker du et tilfældigt emne, som så bliver emnet for din eksamen.
 * Hold din 10-minutters præsentation om det valgte emne.
 * Efter din præsentation følger en 10-minutters eksamination inden for dette emne og andre relaterede emner.
@@ -48,4 +48,5 @@ Eksamen bedømmes efter 7-trinsskalaen.
 * Du må medbringe så mange forberedte eksempler som du har lyst til, og du er velkommen til trække et eksempel frem som understøttelse til din svar på mine spørgsmål. Da du bliver bedømt på din forklaring og forståelse af eksemplerne og ikke eksemplerne i sig selv, skal du sørge for at forstå det du tager med til eksamenen. 
 * Det er ikke tilladt at få hjælp af en LLM under selve eksaminationen, hverken gennem chatten, eller gennem din editors LLM integration (feks. Copilot i VS Code eller de mange muligheder i editoren Cursor).
 * Du må dog gerne have din editors intellisence slået til (men altså ikke LLM genereret code completion).
-* Du vil blive bedømt på din forståelse af og evne til at forklare dine kode, så det er en god ide at øve dine eksempler meget inden selve eksamenen.  
+* Du vil blive bedømt på din forståelse af og evne til at forklare dine kode, så det er en god ide at øve dine eksempler meget inden selve eksamenen. Det trækker kraftigt ned hvis du har kode med som du ikke kan forklare.   
+* Forklar din kode set udfra forskellige abstraktionsniveauer. Hvis du har forklaret hvad en funktion "gør" på et overordnet plan, "når denne funktion kaldes hentes der information fra wikipedia i json format.", så gå et niveau ned og forklar feks. hvordan en computer ville læse koden (step by step).  

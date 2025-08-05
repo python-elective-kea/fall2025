@@ -13,6 +13,8 @@ Efter at have arbejdet med disse emner vil du kunne:
 * forklare hvornår og hvorfor du bruger classes og objects i stedet for procedure-stil.
 * relatere den pythoniske OOP-stil til andre sprog (f.eks. Java).
 
+## Dagen i dag
+
 ## Materialer
 
 - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
