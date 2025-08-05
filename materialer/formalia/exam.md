@@ -19,7 +19,7 @@ Et par uger inden den mundtlige eksamen skal du aflevere din synopsis på Wisefl
 * Giv en kort beskrivelse, eventuelt i punktform af hvad du vil præsentere inden for hvert emne til eksamenen. 
 * Du kan se et eksempel på en synopsis [her](exam_synopsis_template.md)
 
-Husk, at en god synopsis klart og præcist præsenterer dit emne, formålet med din præsentation og de vigtigste punkter, du vil dække. Det gør det nemmere for dem, der skal vurdere dig, at følge din præsentation og bedømme din præstation.
+Husk, at en god synopsis klart og præcist præsenterer dit emne, formålet med din præsentation og de vigtigste punkter, du vil dække. Det gør det nemmere for os, der skal vurdere dig, at følge din præsentation og bedømme din præstation.
 
 ## Den mundtlige eksamen
 
