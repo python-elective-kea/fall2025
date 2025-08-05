@@ -1,20 +1,16 @@
 # Exam Synopsis (Template)
 
-Below are a few examples of how you could write your synopsis. These are all meant to serve as inspiration. You should craft one in your own words; it doesn't necessarily have to focus on the exact topics I've written about, but can encompass anything that aligns with the overall topics.
+Nedenfor er nogle få eksempler på, hvordan du kunne skrive dit synopsis. Disse er alle tænkt som inspiration. Du bør udarbejde et med dine egne ord; det behøver ikke nødvendigvis at fokusere på præcis de emner, jeg har skrevet om, men kan omfatte alt, der stemmer overens med de overordnede emner.
 
-## 1. Pythons datastructures
-No example
+## 1. Pythons datastrukturer
+I min præsentation vil jeg have fokus på Pythons indbyggede datastrukturer, særligt lister, dictionaries og sets. Jeg vil demonstrere hvordan disse strukturer kan bruges effektivt til forskellige opgaver, og hvordan man vælger den rigtige datastruktur til det rigtige formål. Desuden vil jeg vise praktiske eksempler på list comprehensions og hvordan de kan gøre koden mere læsbar og pythonic. Foreslåede emner vi kunne diskutere efter min præsentation inkluderer performance-forskelle mellem datastrukturerne og avancerede teknikker som nested comprehensions.
 
-## 2. Pythonic OOP
-In my presentation, I will focus on encapsulation and how it is achieved through the use of properties. I will provide some practical examples, starting with public variables and demonstrating how to get and set them. Following this, I will illustrate how we can incorporate properties into our classes to achieve encapsulation without making changes to the existing user code. Suggested topics we could discuss following my presentation include the "property built-in function" and an exploration of its internal workings.
+## 2. Udsagns, prædikat og boolsk logik
+I min præsentation vil jeg have fokus på grundlæggende boolsk logik og hvordan den anvendes i Python. Jeg vil forklare forskellen mellem udsagnslogik og prædikatlogik, og demonstrere hvordan logiske operatorer som and, or og not fungerer i praksis. Desuden vil jeg vise hvordan Python evaluerer boolske udtryk og konceptet "truthiness" - hvordan forskellige datatyper opfører sig i boolske kontekster. Foreslåede emner vi kunne diskutere efter min præsentation inkluderer short-circuit evaluation, De Morgans love og hvordan man kan bruge boolsk logik til at skrive mere elegante betingelser i kode.
 
-## 3. Functions in python (Build-in functions, functions in general, decorators e.g)
-A list of Python's built-in functions can be found here: Python Built-in Functions.
-In my presentation, I will demonstrate how to utilize a selection of these functions, emphasizing their ease of use and how they enhance user interaction with the language. Furthermore, I will demonstrate how to integrate these uniform interfaces with one's own objects using data model methods. 
+## 3. Pythonic OOP
+I min præsentation vil jeg fokusere på Pythons datamodel, og jeg vil vise hvordan en klasses dunder metoder hænger sammmen med pythons build-in functions. Inden da vil jeg beskrive hvordan en klasse og den attributter opbygges i python. 
 
-## 4. Udsagns, prædikat og boolsk logik
-No example
-
-
-
-
+## 4. Funktioner i python (Built-in funktioner, funktioner generelt, decorators osv.)
+I min præsentation om Funktioner i python vil jeg have fokus på begreberne **first class functions**, **inner functions** og **decorators**.
+Jeg vil i den forbindelse komme ind på en funktions **returværdi** og dets **sideeffekter**.
