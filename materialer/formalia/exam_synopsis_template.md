@@ -12,5 +12,5 @@ I min præsentation vil jeg have fokus på grundlæggende boolsk logik og hvorda
 I min præsentation vil jeg fokusere på Pythons datamodel, og jeg vil vise hvordan en klasses dunder metoder hænger sammmen med pythons build-in functions. Inden da vil jeg beskrive hvordan en klasse og den attributter opbygges i python. 
 
 ## 4. Funktioner i python (Built-in funktioner, funktioner generelt, decorators osv.)
-I min præsentation om Funktioner i python vil jeg have fokus på begreberne **first class functions**, **inner functions** og **decorators**.
+I min præsentation om Funktioner i python vil jeg have fokus på begreberne **higher order functions**, **inner functions** og **decorators**.
 Jeg vil i den forbindelse komme ind på en funktions **returværdi** og dets **sideeffekter**.

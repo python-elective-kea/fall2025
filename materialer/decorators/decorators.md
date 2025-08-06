@@ -31,7 +31,7 @@ Ved at læse teksterne i materialesektionen, lave de 3 øvelser og følge underv
 
 Efter denne uge vil du kende til og kunne bruge og forklare:
 
-- First class functions
+- First class functions / Higher order functions
 - Inner functions
 - Decorator functions
   - forklare hvordan en decorator-funktion virker
@@ -40,10 +40,9 @@ Efter denne uge vil du kende til og kunne bruge og forklare:
 
 ## Materialer
 
-- [`Getting started with Jupyter Notebook`](notebooks/jupyter_notebook.md)
-- [`Getting Started With Jupyter Notebook for Python`](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46) *(spring installationsdelen over, da vi gør det gennem Docker)*
 - [`Primer on Python Decorators`](https://realpython.com/primer-on-python-decorators/)
 - [`Python Inner Functions—What Are They Good For?`](https://realpython.com/inner-functions-what-are-they-good-for/)
+- [Nested functions in Python](https://www.pythonmorsels.com/nested-functions/)
 - [`Notebook on Decorators`](notebooks/Decorators.ipynb)
 - [`Code examples from teachings`](https://github.com/python-elective-kea/spring2023-code-examples-from-teachings/tree/master/ses6)
 * [Øvelser](exercises.md)
