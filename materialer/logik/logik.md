@@ -1,7 +1,7 @@
-# Udsagns og prædikatlogik
+# Udsagnslogik
 
 Logik er fundamentet for programmering og computerscience, da det hjælper os med at tænke præcist og struktureret om problemer og løsninger.    
-Denne uge dykker vi ned i logikkens verden og lærer at arbejde med formelle logiske systemer. Vi starter med udsagnslogik, hvor vi lærer at manipulere propositioner (udsagn) ved hjælp af logiske operatorer som AND, OR og NOT. Derefter udvider vi til prædikatlogik med kvantorer, som giver os mulighed for at udtrykke komplekse udsagn om hele populationer eller domæner. 
+Denne uge dykker vi ned i logikkens verden og lærer at arbejde med formelle logiske systemer. Vi kommer til at arbejde med det der hedder udsagnslogik, hvor vi lærer at manipulere propositioner (udsagn) ved hjælp af logiske operatorer som AND, OR og NOT. 
 
 ## Læringsmål
 
@@ -10,10 +10,7 @@ Denne uge dykker vi ned i logikkens verden og lærer at arbejde med formelle log
 * Kunne konstruere og læse sandhedstabeller for sammensatte propositioner
 * Forstå og kunne anvende De Morgans love
 * Kunne identificere tautologier, kontradiktioner og kontingens
-* Forstå forskellen mellem udsagnslogik og prædikatlogik
-* Kunne arbejde med prædikater og kvantorer (∀ og ∃)
 * Forstå negation af kvantificerede udsagn ved hjælp af De Morgans love
-* Kunne arbejde med indlejrede kvantorer og forstå betydningen af rækkefølgen
 * Kunne oversætte mellem naturligt sprog og logiske symboler
 * Forstå logiske ækvivalenser og kunne bevise dem med sandhedstabeller
 

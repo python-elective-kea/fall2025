@@ -19,10 +19,10 @@ venv/
 # Python
 __pycache__/
 
-teacher/*
+#teacher/*
 
 
 # løsninger på øvelser
-materialer/introduktion/solutions
+#materialer/introduktion/solutions
 
 
