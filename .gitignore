@@ -13,9 +13,6 @@ venv/
 # macOS
 .DS_Store
 
-# Jupyter Notebook
-.ipynb_checkpoints
-
 # Python
 __pycache__/
 
