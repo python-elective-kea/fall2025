@@ -28,7 +28,7 @@ materialer/datamodel/
 materialer/datastrukturer1/
 materialer/datastrukturer2/
 materialer/decorators/
-materialer/formalia/
+#materialer/formalia/
 materialer/generators/
 materialer/logik/
 materialer/moduler/
