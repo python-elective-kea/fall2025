@@ -1,1 +1,0 @@
-# Udsagns og prædikatlogik øvelser
