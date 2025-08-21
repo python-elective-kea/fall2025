@@ -25,15 +25,15 @@ teacher/*
 materialer/introduktion/solutions
 
 # Ignore all future fiolders
-materialer/boolean/*
-materialer/context_managers/*
-materialer/datamodel/*
-materialer/datastrukturer1/*
-materialer/datastrukturer2/*
-materialer/decorators/*
-materialer/formalia/*
-materialer/generators/*
-materialer/logik/*
-materialer/moduler/*
-materialer/obligatoriske/*
-materialer/oop/*
+materialer/boolean/
+materialer/context_managers/
+materialer/datamodel/
+materialer/datastrukturer1/
+materialer/datastrukturer2/
+materialer/decorators/
+materialer/formalia/
+materialer/generators/
+materialer/logik/
+materialer/moduler/
+materialer/obligatoriske/
+materialer/oop/
