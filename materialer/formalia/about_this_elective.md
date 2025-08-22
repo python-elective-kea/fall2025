@@ -17,7 +17,7 @@ Brug en LLM til at:
 * Bruge AI til at øve jeres tekniske vokabularium. Iterere et array, kalde en funktion, variablen er immutable, etc.
 * Bruge AI til at teste jeres viden
 
-I skal ikke bruge AI til:
+I skal ikke (i dette fag) bruge AI til:
 * At lave koden for jer
 * Løse opgaver for jer
 * Få AI til at generere løsningen på en opgave for derefter læse opgaven igennem og tro at man forstår
