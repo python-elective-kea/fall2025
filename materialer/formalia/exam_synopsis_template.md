@@ -5,7 +5,7 @@ Nedenfor er nogle få eksempler på, hvordan du kunne skrive dit synopsis. Disse
 ## 1. Pythons datastrukturer
 I min præsentation vil jeg have fokus på Pythons indbyggede datastrukturer, særligt lister, dictionaries og sets. Jeg vil demonstrere hvordan disse strukturer kan bruges effektivt til forskellige opgaver, og hvordan man vælger den rigtige datastruktur til det rigtige formål. Desuden vil jeg vise praktiske eksempler på list comprehensions og hvordan de kan gøre koden mere læsbar og pythonic. Foreslåede emner vi kunne diskutere efter min præsentation inkluderer performance-forskelle mellem datastrukturerne og avancerede teknikker som nested comprehensions.
 
-## 2. Udsagns, prædikat og boolsk logik
+## 2. Udsagns og boolsk logik
 I min præsentation vil jeg have fokus på grundlæggende boolsk logik og hvordan den anvendes i Python. Jeg vil forklare forskellen mellem udsagnslogik og prædikatlogik, og demonstrere hvordan logiske operatorer som and, or og not fungerer i praksis. Desuden vil jeg vise hvordan Python evaluerer boolske udtryk og konceptet "truthiness" - hvordan forskellige datatyper opfører sig i boolske kontekster. Foreslåede emner vi kunne diskutere efter min præsentation inkluderer short-circuit evaluation, De Morgans love og hvordan man kan bruge boolsk logik til at skrive mere elegante betingelser i kode.
 
 ## 3. Pythonic OOP

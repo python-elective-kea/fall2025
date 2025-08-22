@@ -7,7 +7,7 @@ Eksamen i dette valgfag er en mundtlig prøve baseret på en synopsis.
 Til din eksamen skal du demonstrere, i hvor høj grad du opfylder læringsmålene for dette valgfag. Dette skal du gøre ved at demonstrere din viden, dine færdigheder og dine kompetencer inden for disse emner:
 
 1. Pythons datastrukturer
-2. Udsagns, prædikat og boolsk logik
+2. Udsagns og boolsk logik
 3. Pythonic OOP (Basic OOP, Datamodel osv.)
 4. Funktioner i Python (Indbyggede funktioner, funktioner generelt, dekoratorer osv.)
 
