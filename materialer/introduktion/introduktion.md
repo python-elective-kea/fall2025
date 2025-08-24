@@ -42,15 +42,26 @@ Inden vi mødes skal i have installeret:
 Vi starter med at gå igennem disse 
 * [slides.ipynb](slides_intro.ipynb)
 
-## Materialer
-
-* [Is Python interpreted or compiled? Yes.](https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html)
+Vi kommer i sidste halvdel af dagen til at arbejde med disse sprogelementer. (brug link som et opslagsværk):
+* [Python Glossary - variable](https://realpython.com/ref/glossary/variable/)
+* [Python Glossary - type()](https://realpython.com/ref/glossary/type/)
+* [Python Glossary - len()](https://realpython.com/ref/builtin-functions/len/)
+* [Python Glossary - function()](https://realpython.com/ref/glossary/function/)
+* [Python Glossary - comment](https://realpython.com/ref/glossary/comment/) 
+* [Python Glossary - f-string](https://realpython.com/ref/glossary/f-string/) 
+* [Python Glossary - Python’s Built-in Data Types](https://realpython.com/ref/builtin-types/) 
+* [Python Glossary - if](https://realpython.com/ref/keywords/if/) 
+* [Python Glossary - else](https://realpython.com/ref/keywords/else/) 
+* [Python Glossary - elif](https://realpython.com/ref/keywords/elif/) 
 * [Built-in Functions](https://docs.python.org/3/library/functions.html)
+
+Derudover kommer vi til at berører emenrne i disse links og artikler:
+* [Is Python interpreted or compiled? Yes.](https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html)
 * [Strings and Character Data in Python](https://realpython.com/python-strings/)
-* [if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
-* [Notes from teachings](materialer/introduktion/notes_01.md)
-* [Kode fra undervisningen](../materialer/datastrukturer1/)
 * [The PyCoder’s Weekly](https://pycoders.com/issues/687)
+
+Og i kan finde koden fra tavlen i dag her:
+* [Kode fra undervisningen](kode_fra_undervisning.ipynb)
 
 ### Øvelser
 * [Strings1](string1.ipynb)
