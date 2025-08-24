@@ -41,7 +41,6 @@ Inden vi mødes skal i have installeret:
 
 Vi starter med at gå igennem disse 
 * [slides.ipynb](slides_intro.ipynb)
-* [slides.html](slides_intro.slides.html)
 
 ## Materialer
 
@@ -54,9 +53,11 @@ Vi starter med at gå igennem disse
 * [The PyCoder’s Weekly](https://pycoders.com/issues/687)
 
 ### Øvelser
-* [Strings1 & Strings2](../materialer/introduktion/) ([Løsninger](../materialer/introduktion/solutions)(kan ses på mandag))
+* [Strings1](string1.ipynb)
+* [String2](string2.ipynb)
+* ([Løsninger](solutions)(kan ses i morgen))
 
 #### Quizes
 
-* `Python Strings and Character Data Quiz <https://realpython.com/quizzes/python-strings/>`_
-* `Splitting, Concatenating, and Joining Strings in Python Quiz <https://realpython.com/quizzes/python-split-strings/>`_
+* [Python Strings and Character Data Quiz](https://realpython.com/quizzes/python-strings/)
+* [Splitting, Concatenating, and Joining Strings in Python Quiz](https://realpython.com/quizzes/python-split-strings/)
