@@ -9,7 +9,7 @@
 |    3    |   8/9    | [Datastrukture \{sets og dictionaries\}](materialer/datastrukturer2/datastrukture2.md) |
 |    4    |   15/9   | [Python - modules, virtual environmnets, requirements.txt](materialer/moduler/moduler.md) |
 |    5    |   22/9   | [Obligatorisk opgave](materialer/obligatoriske/obligatorisk_1.md)                |
-|    6    |   29/9   | [Udsagns og prædikatlogik](materialer/logik/logik.md)                            |
+|    6    |   29/9   | [Udsagnslogik](materialer/logik/logik.md)                            |
 |    7    |   6/10   | [Betingelser (boolean logik)](materialer/boolean/boolean.md)                     |
 |         |          | Efterårsferie                                                                     |
 |    8    |  20/10   | [Funktioner & Decorators](materialer/decorators/decorators.md)                   |
