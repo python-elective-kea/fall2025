@@ -64,6 +64,7 @@ Og i kan finde koden fra tavlen i dag her:
 * [Kode fra undervisningen](kode_fra_undervisning.ipynb)
 
 ### Øvelser
+* [Notebook getting started](https://github.com/python-elective-kea/fall2023-code-examples-from-teachings/blob/master/ses1/playground.ipynb)
 * [Strings1](string1.ipynb)
 * [String2](string2.ipynb)
 * ([Løsninger](solutions)(kan ses i morgen))
