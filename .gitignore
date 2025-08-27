@@ -19,7 +19,7 @@ __pycache__/
 teacher/*
 
 # løsninger på øvelser
-materialer/introduktion/solutions
+#materialer/introduktion/solutions
 
 # Ignore all future fiolders
 materialer/boolean/
