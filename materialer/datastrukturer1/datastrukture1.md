@@ -39,6 +39,8 @@ Vi starter med en opsumering af emnerne for i dag, og kommer til at have fokus p
 * Slicing og manipulation
 * list comprehensions. 
 
+Det gør vi som udgangspunkt gennem denne [warm-up exercise](warm_up.ipynb)
+
 Herefter arbejder vi ping pong med øvelerne til i dag.
 
 ## Materialer
