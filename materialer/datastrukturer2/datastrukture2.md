@@ -29,21 +29,20 @@ Til sidst skal du gennemgå sektion 5.1, 5.2 og 5.3 om set teori og python i det
 Vi starter med en opsumering af Set teori, og forbinder det til python sets.    
 Herefter arbejder vi med øvelerne herunder til i dag.
 
-## Materialer
+* [Kodeeksempler og øvelser fra undervisningen](kode_fra_undervisningen.ipynb)
+
 
 <!--
+## Materialer
 * [Efficient Use of Python Data Structures](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#efficient-use-of-python-data-structures) (læs kun afsnittet, ikke hele artiklen)
 * [Utilize List Comprehensions and Generator Expressions](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#utilize-list-comprehensions-and-generator-expressions) (læs kun afsnittet, ikke hele artiklen)
 * [Leveraging Built-in Functions and Libraries](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#leveraging-built-in-functions-and-libraries) (læs kun afsnittet, ikke hele artiklen)
 -->
-* [Kodeeksempler og øvelser fra undervisningen](kode_fra_undervisningen.ipynb)
-
 
 ### Øvelser
 
----
 #### Øv 1: subset ($\subset$) og perfect subset ($\subseteq$)
----
+
 På baggrund af disse 2 sets kan du finde ud af om de er ens ved hjælp af `==` opratoren.
 
 ````
@@ -56,16 +55,6 @@ Du vil også kunne finde ud af om de er ens ved hjælp af subset ($\subset$) og 
 **Lav dette med python kode.**
 
 (lav det først med set **metoderne** og derefter med set **opratorene**).
-
----
-#### Ex. 3: Comprehensions
----
-
-Alfabet List Comprehensions
-
-1. Lav en liste af store bogstaver i det engelske alfabet
-2. Lav en liste af store bogstaver fra det engelske alfabet, men udelad 4 med Unicode-kodepunktet enten 70, 75, 80, 85.
-3. Lav en liste af store bogstaver fra det engelske alfabet, men udelad hvert andet bogstav mellem F & O
 
 #### Ex 4: Tøjliste Comprehension
 Den første del af denne øvelse har du lavet sidste uge (hvis ikke skal du lave den nu).
