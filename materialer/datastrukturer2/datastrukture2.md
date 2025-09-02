@@ -52,9 +52,8 @@ På baggrund af disse 2 sets kan du finde ud af om de er ens ved hjælp af `==` 
 ````
 Du vil også kunne finde ud af om de er ens ved hjælp af subset ($\subset$) og perfect subset ($\subseteq$). 
 
-**Lav dette med python kode.**
-
-(lav det først med **set metoderne** og derefter med **set opratorene**).
+* **Lav dette med python kode.**
+    * (lav det først med **set metoderne** og derefter med **set opratorene**).
 
 ### Ex 4: Tøjliste Comprehension
 Den første del af denne øvelse har du lavet sidste uge (hvis ikke skal du lave den nu).
