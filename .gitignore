@@ -4,6 +4,9 @@
 env/
 venv/
 
+# Claude.ai memory file
+CLAUDE.md
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
