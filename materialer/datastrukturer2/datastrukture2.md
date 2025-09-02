@@ -61,6 +61,7 @@ Du vil også kunne finde ud af om de er ens ved hjælp af subset ($\subset$) og 
 
 **Lav dette med python kode.**
 
+(lav det først med set **metoderne** og derefter med set **opratorene**).
 
 ---
 #### Ex. 3: Comprehensions
@@ -72,9 +73,8 @@ Alfabet List Comprehensions
 2. Lav en liste af store bogstaver fra det engelske alfabet, men udelad 4 med Unicode-kodepunktet enten 70, 75, 80, 85.
 3. Lav en liste af store bogstaver fra det engelske alfabet, men udelad hvert andet bogstav mellem F & O
 
----
 #### Ex 4: Tøjliste Comprehension
----
+Den første del af denne øvelse har du lavet sidste uge (hvis ikke skal du lave den nu).
 
 Udfra disse 2 lister:
 
@@ -108,23 +108,15 @@ Du kan i princippet lave denne øvelse meget lig den forrige, men det er mere "e
 Du kan også løse dette ved at importere modulet **itertools** og fra det modul bruge `product` functionen.
 Prøv det og lig mærke til forskellen fra dine tidligere løsninger. 
 
----
-#### Ex 5: List Comprehension øvelser
----
-* Lav en liste af lige tal fra 0 til 20.
-* Lav en liste af kvadrater af tal fra 1 til 10.
-* Lav en liste af alle vokaler i en given streng.
-* Lav en liste af fælles elementer i to givne lister.
-* Lav en liste af ord fra en given streng, der har mere end 4 bogstaver.
-
 ### Set, Dict øvelser
----
 
-* [Dictionary](../materialer/datastrukturer2/exercises/dict.ipynb)
-* [Set](../materialer/datastrukturer2/exercises/set.ipynb)
-* [Lotto](../materialer/datastrukturer2/exercises/lotto.ipynb)
+* [Dictionary](exercises/dict.ipynb)
+* [Set](exercises/set.ipynb)
+* [Lotto](exercises/lotto.ipynb)
 * [Word count](https://github.com/python-elective-kea/fall2020/tree/master/sphinx/source/exercises/dict_exercises/count_words_in_file)
 
+<!--
 #### quizes
 * [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)
 * ["while" Loops Quiz](https://realpython.com/quizzes/python-while-loop/)
+-->
