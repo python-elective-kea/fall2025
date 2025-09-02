@@ -3,7 +3,7 @@
 Vi fortsætter legen med datastrukturer og vil i dag have fokus på Sets og Dictionaries.
 
 ## Læringsmål
----        
+     
 - Arbejde med dicts, sets, lister og tupler
 - Kunne arbejde med dict og set comprehensions
 - Kunne bruge pythons `ittertools` module
