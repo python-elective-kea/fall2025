@@ -56,7 +56,7 @@ Du vil også kunne finde ud af om de er ens ved hjælp af subset ($\subset$) og 
     * (lav det først med **set metoderne** og derefter med **set opratorene**).
 
 ### Ex 4: Tøjliste Comprehension
-Den første del af denne øvelse har du lavet sidste uge (hvis ikke skal du lave den nu).
+Den første del af denne øvelse har du lavet sidste uge (hvis ikke, skal du lave den nu).
 
 Udfra disse 2 lister:
 
