@@ -39,9 +39,9 @@ Herefter arbejder vi med øvelerne herunder til i dag.
 * [Leveraging Built-in Functions and Libraries](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#leveraging-built-in-functions-and-libraries) (læs kun afsnittet, ikke hele artiklen)
 -->
 
-### Øvelser
+## Øvelser
 
-#### Øv 1: subset ($\subset$) og perfect subset ($\subseteq$)
+### Øv 1: subset ($\subset$) og perfect subset ($\subseteq$)
 
 På baggrund af disse 2 sets kan du finde ud af om de er ens ved hjælp af `==` opratoren.
 
@@ -56,7 +56,7 @@ Du vil også kunne finde ud af om de er ens ved hjælp af subset ($\subset$) og 
 
 (lav det først med set **metoderne** og derefter med set **opratorene**).
 
-#### Ex 4: Tøjliste Comprehension
+### Ex 4: Tøjliste Comprehension
 Den første del af denne øvelse har du lavet sidste uge (hvis ikke skal du lave den nu).
 
 Udfra disse 2 lister:
