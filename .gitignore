@@ -29,7 +29,7 @@ materialer/boolean/
 materialer/context_managers/
 materialer/datamodel/
 #materialer/datastrukturer1/
-materialer/datastrukturer2/
+#materialer/datastrukturer2/
 materialer/decorators/
 #materialer/formalia/
 materialer/generators/
