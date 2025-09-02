@@ -36,7 +36,7 @@ Herefter arbejder vi med øvelerne herunder til i dag.
 * [Utilize List Comprehensions and Generator Expressions](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#utilize-list-comprehensions-and-generator-expressions) (læs kun afsnittet, ikke hele artiklen)
 * [Leveraging Built-in Functions and Libraries](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#leveraging-built-in-functions-and-libraries) (læs kun afsnittet, ikke hele artiklen)
 -->
-* [Kodeeksempler og øvelser fra undervisningen](../materialer/ses2/)
+* [Kodeeksempler og øvelser fra undervisningen](kode_fra_undervisningen.ipynb)
 
 
 ### Øvelser
