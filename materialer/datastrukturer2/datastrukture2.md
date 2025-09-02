@@ -11,6 +11,7 @@ Vi fortsætter legen med datastrukturer og vil i dag have fokus på Sets og Dict
 ## Forberedelse
 
 * [Se de første 7 videoer i denne playliste](https://youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz&si=ZvB5iD6OeP284C5-) (1 time 15 min)
+    * Dette er ikke pythonkodevideoer, men baggrundsstof. I skal ikke kunne dette til perfektion, men i skal i første omgang have set videoerne (ligesom hvis i skimmer en tekst) og så kan i bruge dem som opslagsværk senere.
 
 Herefter se disse 2 videoer om "Sets og Dicts in python"
 
