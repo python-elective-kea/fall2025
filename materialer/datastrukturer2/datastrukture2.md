@@ -25,16 +25,17 @@ Til sidst skal du gennemgå sektion 5.1, 5.2 og 5.3 om set teori og python i det
 * [Python Dictionaries || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=XCcpzWs-CI4&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=15) (6:08)
 
 ## Dagens indhold
----
+
 Vi starter med en opsumering af Set teori, og forbinder det til python sets.    
 Herefter arbejder vi med øvelerne herunder til i dag.
 
 ## Materialer
----
 
+<!--
 * [Efficient Use of Python Data Structures](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#efficient-use-of-python-data-structures) (læs kun afsnittet, ikke hele artiklen)
 * [Utilize List Comprehensions and Generator Expressions](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#utilize-list-comprehensions-and-generator-expressions) (læs kun afsnittet, ikke hele artiklen)
 * [Leveraging Built-in Functions and Libraries](https://blog.appsignal.com/2025/05/28/ways-to-optimize-your-code-in-python.html#leveraging-built-in-functions-and-libraries) (læs kun afsnittet, ikke hele artiklen)
+-->
 * [Kodeeksempler og øvelser fra undervisningen](../materialer/ses2/)
 
 
