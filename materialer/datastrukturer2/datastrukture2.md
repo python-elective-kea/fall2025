@@ -26,15 +26,8 @@ Til sidst skal du gennemgå sektion 5.1, 5.2 og 5.3 om set teori og python i det
 
 ## Dagens indhold
 ---
-Vi starter med en opsumering af Set teori, og forbinder det til python sets.
-
-
-
-Herefter arbejder vi ping pong med øvelerne til i dag.
-
-* [Dictionary](exercises/dict.ipynb)
-* [Set](exercises/set.ipynb)
-* [Lotto](exercises/lotto.ipynb)
+Vi starter med en opsumering af Set teori, og forbinder det til python sets.    
+Herefter arbejder vi med øvelerne herunder til i dag.
 
 ## Materialer
 ---
