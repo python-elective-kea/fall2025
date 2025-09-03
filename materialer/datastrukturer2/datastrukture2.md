@@ -1,10 +1,12 @@
-# Datastrukture \{sets og dictionaries\}
+# Datastruktursets og dictionaries\}
 
 Vi fortsætter legen med datastrukturer og vil i dag have fokus på Sets og Dictionaries.
 
 ## Læringsmål
-     
-- Arbejde med dicts, sets, lister og tupler
+
+- Forstå grundlæggende setoperationer (mængdeoperationer) både visuelt og i kode
+- Se hvordan matematiske symboler hænger sammen med Pythonkode
+- Find ud af, hvordan mængder kan bruges i virkelige programmer
 - Kunne arbejde med dict og set comprehensions
 - Kunne bruge pythons `ittertools` module
 
