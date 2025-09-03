@@ -29,6 +29,9 @@ Til sidst skal du gennemgå sektion 5.1, 5.2 og 5.3 om set teori og python i det
 ## Dagens indhold
 
 Vi starter med en opsumering af Set teori, og forbinder det til python sets.    
+
+* [Set teori og python kode slides](settheory_slides.pdf)
+
 Herefter arbejder vi med øvelerne herunder til i dag.
 
 * [Kodeeksempler og øvelser fra undervisningen](kode_fra_undervisningen.ipynb)
