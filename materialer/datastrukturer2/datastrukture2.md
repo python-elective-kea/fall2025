@@ -100,8 +100,9 @@ Prøv det og lig mærke til forskellen fra dine tidligere løsninger.
 * [Dictionary](exercises/dict.ipynb)
 * [Set](exercises/set.ipynb)
 * [Lotto](exercises/lotto.ipynb)
+<!--
 * [Word count](https://github.com/python-elective-kea/fall2020/tree/master/sphinx/source/exercises/dict_exercises/count_words_in_file)
-
+-->
 <!--
 #### quizes
 * [Lists and Tuples Quiz](https://realpython.com/quizzes/python-lists-tuples/)
