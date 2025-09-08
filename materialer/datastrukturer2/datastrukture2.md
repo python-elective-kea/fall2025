@@ -33,6 +33,11 @@ Vi starter med en opsumering af Set teori, og forbinder det til python sets.
 * [Set teori og python kode slides](settheory_slides.pdf)
 * [Valgfags set øvelse](exercises/valgfag_set_exercises.ipynb)
 
+Så kigger vi på Dictionaries.
+
+* []()
+
+
 Herefter arbejder vi med øvelerne herunder til i dag.
 
 * [Kodeeksempler og øvelser fra undervisningen](kode_fra_undervisningen.ipynb)
