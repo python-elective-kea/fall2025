@@ -31,6 +31,7 @@ Til sidst skal du gennemgå sektion 5.1, 5.2 og 5.3 om set teori og python i det
 Vi starter med en opsumering af Set teori, og forbinder det til python sets.    
 
 * [Set teori og python kode slides](settheory_slides.pdf)
+* [Valgfags set øvelse](exercises/valgfag_set_exercises.ipynb)
 
 Herefter arbejder vi med øvelerne herunder til i dag.
 
