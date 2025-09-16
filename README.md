@@ -8,7 +8,7 @@
 |    2    |   1/9    | [Datastrukture (Lister og tuples)](materialer/datastrukturer1/datastrukture1.md) |
 |    3    |   8/9    | [Datastrukture \{sets og dictionaries\}](materialer/datastrukturer2/datastrukture2.md) |
 |    4    |   15/9   | [Python - modules, virtual environmnets, requirements.txt](materialer/moduler/moduler.md) |
-|    5    |   22/9   | [Obligatorisk opgave](materialer/obligatoriske/obligatorisk_1.md)                |
+|    5    |   22/9   | [Obligatorisk opgave](materialer/obligatoriske/obligatorisk_1.md) (Online vejledning via Teams)               |
 |    6    |   29/9   | [Udsagnslogik](materialer/logik/logik.md)                            |
 |    7    |   6/10   | [Betingelser (boolean logik)](materialer/boolean/boolean.md)                     |
 |         |          | Efterårsferie                                                                     |
