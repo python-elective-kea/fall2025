@@ -113,6 +113,8 @@ I opfordres til at følge **KISS** designprincippet. **Keep it simple stupid**. 
 
 * Læs [reviews.csv](reviews.csv) filen vha. `csv` modulet.    
 * Udskriv reviews kollonen (kun reviews kollonnen!)
+* Udskriv reviews kollonnen med vivt_id 3267
+
 <!-- 
 ### Øv 5: Download filer
 I denne øvelse skal du lave et script som kan læse filer fra nettet og gemme dem i en fil i en mappe på din computer.
