@@ -54,7 +54,7 @@ Så kigger vi på 3 moduler ```OS```, ```subprocess``` og ```requests```. [Demo 
 ### Øv 1: Environment variabler og OS modulet
 Du har set at ved `import os` har adgang til et modul der indeholder en masse funktioner som kan bruges til interaktion og manipulation af fil- og operativsystem.
 
-Vi kommer snart til at skulle bruge **API tokens** i vores kode til 'Authorization' i forhold til forskellige LLM API´er.
+I kommer ofte til at skulle bruge **API tokens** i jeres kode til 'Authorization' i forhold til forskellige API´er.
 
 Når vi arbejder med Authorization tokens skal de gemmes i environment variables. 
 
@@ -63,7 +63,6 @@ Du skal i første omgang gemme en miljøvariabel i en celle, og læse den samme 
 Når du har styr på det skal vi gemme varablen i en anden fil.
 
 * I OS modulet find de funktioner der skriver og læser miljøvariabler, og få det til at virke.
-
 
 I VS Code kan vi oprette en fil `.env` hvor i vi kan gemme vores environment variabler. Denne `.env` fil kan vi så skrive i vores `.gitignore` fil, og derved undgå deling af den hemmelige nøgle på Github.
 
@@ -80,13 +79,13 @@ Til denne øvelse skal du bruge subprocess modulet.
 [The subprocess Module: Wrapping Programs With Python](https://realpython.com/python-subprocess/)
 
 * Clone dette respository: https://github.com/python-elective-kea/spring2024.git
-* åben her etfer `index.html` filen fra `docs` mappen i din browser.
+* åben her efter `index.html` filen fra `docs` mappen i din browser.
 
 Det hele skal selvfølgelig kodes, ikke noget med feks. manuelt at klikke på index.html filen.
 
-### Øv 3: Requests, json og Github API
+### Øv 3: Requests, json og Github API og requirements
 
-Clone dette repository til din computer og følg opgaven i readmefilen.
+Clone dette repository til din computer og følg opgaven i readmefilen. (clon er bare på normal måde i denne opgave)
 
 * https://github.com/python-elective-kea/students_flaks_api_exercise.git
 
@@ -112,7 +111,7 @@ I opfordres til at følge **KISS** designprincippet. **Keep it simple stupid**. 
 
 ### Øv 4: CSV
 
-* Læs [reviews.csv](/materialer/ses3/reviews.csv) filen vha. `csv` modulet.    
+* Læs [reviews.csv](reviews.csv) filen vha. `csv` modulet.    
 * Udskriv reviews kollonen (kun reviews kollonnen!)
 <!-- 
 ### Øv 5: Download filer
