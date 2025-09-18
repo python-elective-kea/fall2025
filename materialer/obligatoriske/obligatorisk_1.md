@@ -1,8 +1,7 @@
 
 # Obligatorisk opgave 1
 
-Du kan finde opgaven på Fronter:
-* https://ek.itslearning.com/plans/courses/7349/plan/128935/element/1414181?BackDestination=0&BackData=%7B%22BackDestination%22%3A%225%22%7D&planner2-sb-collapsed=false
+Du kan finde opgaven på Fronter.
 
 <!-- 
 Google job interview
