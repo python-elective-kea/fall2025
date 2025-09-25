@@ -20,15 +20,19 @@ Inden undervisningen idag skal i have læst denne tekst om Logik
 * [4. Logic](https://ggc-discrete-math.github.io/logic.html#_logic) (til og med sektion 4.3.4)
 
 ## Dagen i dag
-Der er ikke så meget dirrekte kode i dagens emne og undervisning. 
+Der er ikke så meget python kode i dagens emne og undervisning (men dog lidt).    
+Python delen af emnet kommer næste uge. Idag har vi istedet fokus på matematikkern bag det hele.    
+Bare rolig ... Det blir sjovt!    
+
 Vi gennemgår disse slides 
 * [Logik slides](_slides_udsagnslogik.ipynb)
 
 Herefter laver vi disse øvelser ping pong ved tavlen
-
 * [Logik øvelser](exercises.md)
 
+<!--
 ## Materialer
 * [4. Logic](https://ggc-discrete-math.github.io/logic.html#_logic)
 * [Logik slides](slides_udsagnslogik.ipynb)
 * [Logik øvelser](exercises.md)
+-->
