@@ -17,9 +17,10 @@ Denne uge dykker vi ned i logikkens verden og lærer at arbejde med formelle log
 ## Forberedelse
 Inden undervisningen idag skal i have læst denne tekst om Logik
 
-* [4. Logic](https://ggc-discrete-math.github.io/logic.html#_logic)
+* [4. Logic](https://ggc-discrete-math.github.io/logic.html#_logic) (til og med sektion 4.3.4)
 
 ## Dagen i dag
+Der er ikke så meget dirrekte kode i dagens emne og undervisning. 
 Vi gennemgår disse slides 
 * [Logik slides](_slides_udsagnslogik.ipynb)
 
