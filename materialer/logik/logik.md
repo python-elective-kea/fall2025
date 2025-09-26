@@ -26,7 +26,7 @@ Python delen af emnet kommer næste uge. Idag har vi istedet fokus på matematik
 Bare rolig ... Det blir sjovt!    
 
 Vi gennemgår disse slides 
-* [Logik slides](_slides_udsagnslogik.ipynb)
+* [Logik slides](slides_udsagnslogik.ipynb)
 
 Herefter laver vi disse øvelser ping pong ved tavlen
 * [Logik øvelser](exercises.md)
