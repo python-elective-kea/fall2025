@@ -7745,13 +7745,517 @@ og ikke: $ 5 \cdot (6 + 7) \cdot 8 $</p>
 </div>
 </div>
 </div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=f1c74e1a">
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=hlyk35f2rek">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Navngivning-af-formler">Navngivning af formler<a class="anchor-link" href="#Navngivning-af-formler">¶</a></h2><table>
+<thead>
+<tr>
+<th>formel</th>
+<th>læses</th>
+<th>kaldes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>¬A</td>
+<td>ikke A</td>
+<td>negationen af A</td>
+</tr>
+<tr>
+<td>A ∧ B</td>
+<td>A og B</td>
+<td>konjunktionen af A og B</td>
+</tr>
+<tr>
+<td>A ∨ B</td>
+<td>A eller B</td>
+<td>disjunktionen af A og B</td>
+</tr>
+<tr>
+<td>A → B</td>
+<td>A medfører B</td>
+<td>implikationen fra A til B</td>
+</tr>
+<tr>
+<td>A ↔ B</td>
+<td>A ensbetydende med B</td>
+<td>biimplikationen mellem A og B</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Synonymer:</strong>
+• 'Medfører' = 'implicerer'.
+• 'Ensbetydende med' = 'ækvivalent med'.</p>
+<p>Symbolerne ¬, ∧, ∨, → og ↔ kaldes for <strong>logiske konnektiver</strong> eller blot <strong>konnektiver</strong> (eng.: <strong>connectives</strong>).</p>
+<p>I formlen A → B kaldes A <strong>antecedent</strong> og B <strong>konsekvent</strong> (eng.: <strong>antecedent</strong> og <strong>consequent</strong>).</p>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=b8ghtdpb81">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Sandhedstildelinger">Sandhedstildelinger<a class="anchor-link" href="#Sandhedstildelinger">¶</a></h2><p>Vi betragter igen "Peters formel":</p>
+<ol>
+<li>(b ∨ h) ∧</li>
+<li>(h → (¬b)) ∧</li>
+<li>((¬h) → (¬a)) ∧</li>
+<li>(l → k) ∧</li>
+<li>(k → ((¬b) ∧ (¬a))).</li>
+</ol>
+<p>Er der nogen parenteser som kan undværes?</p>
+<p>Symbolerne b, h, a, l og k er formlens <strong>propositionsvariable</strong>.</p>
+<p><strong>Definition.</strong> <strong>Sandhedstildeling</strong> (eng.: <strong>truth assignment</strong>) for en formel: at give en sandhedsværdi, sand eller falsk, til alle propositionsvariable i formlen.</p>
+<p><strong>Eksempel på sandhedstildeling for Peters formel:</strong></p>
+<p>b : 0, h : 1, a : 0, l : 1, k : 1.</p>
+<p>Her står 0 for falsk og 1 for sand.</p>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=7orij9gsvnp">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Mere-om-sandhedstildelinger">Mere om sandhedstildelinger<a class="anchor-link" href="#Mere-om-sandhedstildelinger">¶</a></h2><div style="display: flex; align-items: flex-start;">
+<div style="flex: 1; padding-right: 20px;">
+<p><strong>Alternativ notation</strong> (F for falsk og T for sand):</p>
+<p>b : F, h : T, a : F, l : T, k : T</p>
+<p><strong>Sandhedstildelinger ≈ kombinationsmuligheder.</strong></p>
+<p><strong>Sandhedstildelinger:</strong> Sandhedsværdi til de <strong>atomare formler</strong> (propositionsvariable).</p>
+<p><strong>Sammensatte formler</strong> får da også sandhedsværdi gennem <strong>sandhedstabeller</strong> (eng.: <strong>truth tables</strong>)...</p>
+<p><em>Udsagnslogik kaldes også boolsk logik efter logikeren George Boole.</em></p>
+</div>
+<div style="flex: 0 0 300px;">
+<p><img alt="George Boole" src="img/bool.png"/></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=tmuohnx9ur">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Sandhedstabel-for-disjunktion">Sandhedstabel for disjunktion<a class="anchor-link" href="#Sandhedstabel-for-disjunktion">¶</a></h2><h3 id="Sandhedstabel-for-%E2%88%A8">Sandhedstabel for ∨<a class="anchor-link" href="#Sandhedstabel-for-%E2%88%A8">¶</a></h3><table>
+<thead>
+<tr>
+<th>p</th>
+<th>q</th>
+<th>p ∨ q</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td>T</td>
+</tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td>F</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Eksempel.</strong> I sandhedstildelingen fra før</p>
+<p>b : F, h : T, a : F, l : T, k : T</p>
+<p>får formlen b ∨ h værdien T, idet</p>
+<p>b : F, h : T    ⟹    b ∨ h : T.</p>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=jvrdix36nh">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Mere-om-disjunktion:-Inklusiv-vs.-eksklusiv">Mere om disjunktion: Inklusiv vs. eksklusiv<a class="anchor-link" href="#Mere-om-disjunktion:-Inklusiv-vs.-eksklusiv">¶</a></h2><table>
+<thead>
+<tr>
+<th>p</th>
+<th>q</th>
+<th>p ∨ q</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td>T</td>
+</tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td>F</td>
+</tr>
+</tbody>
+</table>
+<p>Betragt igen sandhedstabellen for disjunktion:</p>
+<p><strong>Bemærk:</strong> p ∨ q er sand også hvis <strong>både</strong> p og q er sande. Kaldes <strong>inklusiv disjunktion</strong>. På dansk bruges "eller" både eksklusivt og inklusivt, afhængigt af <strong>konteksten</strong>:</p>
+<p>• <strong>Eksklusivt.</strong> Madklubben i Tivoli: "Børnemenu: Kyllingelår eller friskefrikadeller, begge med knuste kartofler samt dessert."
+• <strong>Inklusivt.</strong> Odinexpressen i Tivoli: "Min. 1,3 m eller med voksen ledsager."</p>
+<p>I matematik, programmering og logik er det altid underforstået at 'eller' er inklusivt, dvs. svarer til ∨.</p>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=rbi09wgtb6">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Sandhedstabel-for-konjunktion">Sandhedstabel for konjunktion<a class="anchor-link" href="#Sandhedstabel-for-konjunktion">¶</a></h2><h3 id="Sandhedstabel-for-%E2%88%A7">Sandhedstabel for ∧<a class="anchor-link" href="#Sandhedstabel-for-%E2%88%A7">¶</a></h3><table>
+<thead>
+<tr>
+<th>p</th>
+<th>q</th>
+<th>p ∧ q</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td>F</td>
+</tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td>F</td>
+</tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td>F</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Ingen overraskelser her:</strong></p>
+<p><em>Konjunktion kun sand hvis begge "konjunkter" er sande.</em></p>
+<p><strong>Eksempel.</strong> I sandhedstildelingen fra før</p>
+<p>b : F, h : T, a : F, l : T, k : T</p>
+<p>får formlen b ∨ h værdien T, mens formlen b ∧ h får værdien F.</p>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=e3k92gsmiuq">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Sandhedstabel-for-negation">Sandhedstabel for negation<a class="anchor-link" href="#Sandhedstabel-for-negation">¶</a></h2><h3 id="Sandhedstabel-for-%C2%AC">Sandhedstabel for ¬<a class="anchor-link" href="#Sandhedstabel-for-%C2%AC">¶</a></h3><table>
+<thead>
+<tr>
+<th>p</th>
+<th>¬p</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>T</td>
+<td>F</td>
+</tr>
+<tr>
+<td>F</td>
+<td>T</td>
+</tr>
+</tbody>
+</table>
+<p><em>Negation laver sand om til falsk og falsk om til sand.</em></p>
+<p><img alt="Negation illustration" src="img/negation.png"/></p>
+<p><strong>Bemærk.</strong> Når vi negerer et udsagn som "4 er et primtal", siger vi "4 er ikke et primtal" i stedet for "ikke 4 er et primtal".</p>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=6d7m4lq0agr">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Sandhedstabel-for-biimplikation">Sandhedstabel for biimplikation<a class="anchor-link" href="#Sandhedstabel-for-biimplikation">¶</a></h2><h3 id="Sandhedstabel-for-%E2%86%94">Sandhedstabel for ↔<a class="anchor-link" href="#Sandhedstabel-for-%E2%86%94">¶</a></h3><table>
+<thead>
+<tr>
+<th>p</th>
+<th>q</th>
+<th>p ↔ q</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td>F</td>
+</tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td>F</td>
+</tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td>T</td>
+</tr>
+</tbody>
+</table>
+<p><em>En biimplikation er sand netop når begge sider af dobbeltpilen har samme sandhedsværdi.</em></p>
+<p><strong>Eksempel.</strong> Følgende formel er sand i <strong>enhver</strong> sandhedstildeling:</p>
+<p>p ∧ p ↔ p.</p>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=pz4hqibonij">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Intermezzo:-Wason-tests">Intermezzo: Wason-tests<a class="anchor-link" href="#Intermezzo:-Wason-tests">¶</a></h2><p>Et lille intermezzo inden sandhedstabellen for implikation: <strong>Wason-tests</strong> (Peter Cathcart Wason, 1966).</p>
+<p>Betragt 4 kort, hvor du kun kan se den ene side. På hvert kort er der et tal på den ene side og et bogstav på den anden. Antag du ser følgende 4 kort:</p>
+<p><img alt="Wason test illustration" src="img/ak47.png"/></p>
+<p><strong>Hvilke kort er du nødt til at vende for at afgøre om følgende regel er korrekt?</strong></p>
+<p><em>Hvis der er en vokal på den ene side så er der et lige tal på den anden.</em></p>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=dbl36y12ldg">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Wason-tests-og-sandhedstabel-for-implikation">Wason-tests og sandhedstabel for implikation<a class="anchor-link" href="#Wason-tests-og-sandhedstabel-for-implikation">¶</a></h2><p><strong>Bemærk formen af reglen vi ønsker at teste:</strong>
+<em>Hvis der er en vokal på den ene side så er der et lige tal på den anden.</em></p>
+<p><strong>Eneste der kan bryde reglen:</strong> Et kort med en vokal på den ene side men <em>ikke</em> et lige tal på den anden.</p>
+<p><strong>Med andre ord:</strong> Det eneste der kan "bryde" en implikation p → q er hvis p er sand og q falsk.</p>
+<p><strong>Det giver direkte sandhedstabellen for implikation:</strong></p>
+<h3 id="Sandhedstabel-for-%E2%86%92">Sandhedstabel for →<a class="anchor-link" href="#Sandhedstabel-for-%E2%86%92">¶</a></h3><table>
+<thead>
+<tr>
+<th>p</th>
+<th>q</th>
+<th>p → q</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td>F</td>
+</tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td>T</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=cde8u7tkwdm">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Sandhedstabeller-generelt">Sandhedstabeller generelt<a class="anchor-link" href="#Sandhedstabeller-generelt">¶</a></h2><p><strong>Sandhedstabeller for komplekse formler:</strong> Opbygges trinvist udfra de indgående konnektivers sandhedstabeller.</p>
+<p><strong>Eksempel.</strong> Sandhedstabel for p ∧ q → p ∨ q:</p>
+<table>
+<thead>
+<tr>
+<th>p</th>
+<th>q</th>
+<th>p ∧ q</th>
+<th>p ∨ q</th>
+<th>p ∧ q → p ∨ q</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>T</td>
+<td>F</td>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>F</td>
+<td>T</td>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr>
+<td>F</td>
+<td>F</td>
+<td>F</td>
+<td>F</td>
+<td>T</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Bemærk:</strong> Netop én række per mulig sandhedstildeling. n propositionsvariable giver 2ⁿ rækker.</p>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=8luxr8qkxi">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Evaluering-af-Peters-formel">Evaluering af Peters formel<a class="anchor-link" href="#Evaluering-af-Peters-formel">¶</a></h2><p>Betragt igen "Peters formel":</p>
+<p>(b ∨ h) ∧ (h → ¬b) ∧ (¬h → ¬a) ∧ (l → k) ∧ (k → ¬b ∧ ¬a)</p>
+<p>og sandhedstildelingen</p>
+<p>b : F, h : T, a : F, l : T, k : T</p>
+<p>Vi kan nu <strong>via sandhedstabellerne</strong> tjekke om Peters formel er sand i den givne sandhedstildeling:</p>
+<table>
+<thead>
+<tr>
+<th>b</th>
+<th>h</th>
+<th>a</th>
+<th>l</th>
+<th>k</th>
+<th>b ∨ h</th>
+<th>h → ¬b</th>
+<th>¬h → ¬a</th>
+<th>l → k</th>
+<th>¬b ∧ ¬a</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>F</td>
+<td>T</td>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>b</th>
+<th>h</th>
+<th>a</th>
+<th>l</th>
+<th>k</th>
+<th>k → ¬b ∧ ¬a</th>
+<th>Peters formel</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>F</td>
+<td>T</td>
+<td>F</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=2egptkoq8m">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Evaluering-af-Peters-formel">Evaluering af Peters formel<a class="anchor-link" href="#Evaluering-af-Peters-formel">¶</a></h2><p>Vi har vist at Peters formel er <strong>sand</strong> i følgende sandhedstildeling:</p>
+<p>b : F, h : T, a : F, l : T, k : T</p>
+<p><strong>Ergo er en af Peters muligheder for aftenen:</strong>
+At <em>blive hjemme</em> (h : T) i stedet for at gå i biografen (b : F). At <em>undlade</em> at lave afleveringsopgave (a : F), men <em>købe ind</em> (k : T) og <em>lave mad selv</em> (l : T).</p>
+<p><strong>Bestemme alle Peters muligheder for aftenen:</strong></p>
+<ol>
+<li>Opstil den fulde sandhedstabel for Peters formel.</li>
+<li>Aflæs mulighederne af de rækker hvori Peters formel er sand.</li>
+</ol>
+<p>Let for en computer, men tidskrævende.</p>
 </div>
 </div>
 </div>
