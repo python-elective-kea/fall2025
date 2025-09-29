@@ -29,6 +29,7 @@ Vi gennemgår disse slides
 
 Herefter skal du lave øvelse **1**, **3**, **11**, 33, **37**, 38, 53 fra disse øvelser: <sub><i>(lav dem med **fed skrift** først)</i></sub>
 * [Logik øvelser](exercises.pdf)
+* [I kan finde svar til øvelserne her](exercises_solution.pdf) <sub><i>(men i opfordres selvfølgelig til at lave øvelserne selv før i kigger her :))</i></sub>
 
 <!--
 ## Materialer
