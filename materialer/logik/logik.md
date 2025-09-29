@@ -18,7 +18,6 @@ Denne uge dykker vi ned i logikkens verden og lærer at arbejde med formelle log
 Inden undervisningen idag skal i have læst denne tekst om Logik
 
 * [4. Logic](https://ggc-discrete-math.github.io/logic.html#_logic) <sub><i>(til og med sektion 4.3.4)</i></sub>
-    * vi laver nogle af øvelserne og nogle andre i forbindelse med undervisningen. 
 
 ## Dagen i dag
 Der er ikke så meget python kode i dagens emne og undervisning (men dog lidt).    
