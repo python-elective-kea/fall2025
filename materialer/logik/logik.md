@@ -26,8 +26,8 @@ Bare rolig ... Det blir sjovt!
 
 Vi gennemgår disse slides 
 * [Logik slides](slides_udsagnslogik.ipynb)
-
-Herefter skal du lave øvelse **1**, **3**, **11**, 33, **37**, 38, 53 fra disse øvelser: (lav dem med fed skrift først)
+**
+Herefter skal du lave øvelse **1**, **3**, **11**, 33, **37**, 38, 53 fra disse øvelser: (lav dem med **fed skrift** først)
 * [Logik øvelser](exercises.pdf)
 
 <!--
