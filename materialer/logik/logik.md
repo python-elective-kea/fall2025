@@ -28,8 +28,8 @@ Bare rolig ... Det blir sjovt!
 Vi gennemgår disse slides 
 * [Logik slides](slides_udsagnslogik.ipynb)
 
-Herefter laver vi disse øvelser ping pong ved tavlen
-* [Logik øvelser](exercises.md)
+Herefter skal du lave øvelse **1**, **3**, **11**, 33, **37**, 38, 53 fra disse øvelser: (lav dem med fed skrift først)
+* [Logik øvelser](exercises.pdf)
 
 <!--
 ## Materialer
