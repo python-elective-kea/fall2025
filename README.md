@@ -2,6 +2,10 @@
 
 ## Lektionsplan
 
+<table>
+<tr>
+<td>
+
 | Lektion |   Dato   | Emne                                                                              |
 |:-------:|:--------:|:----------------------------------------------------------------------------------|
 |    1    |   28/8   | [Introduktion til python](materialer/introduktion/introduktion.md)               |
@@ -20,6 +24,15 @@
 |   13    |  24/11   | [Obligatorisk opgave](materialer/obligatoriske/)                                 |
 |   14    |   1/12   | Eksamensforberedelse og vejledning                                               |
 |   15    |   8/12   | Eksamensforberedelse og vejledning                                               |
+
+</td>
+<td>
+
+![QR Code](materialer/formalia/adobe-express-qr-code.png)
+
+</td>
+</tr>
+</table>
 
 ## Om valgfaget
 * [Læs mere om vagfaget her](materialer/formalia/about_this_elective.md)
