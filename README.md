@@ -2,7 +2,7 @@
 
 ## Lektionsplan
 
-<img src="materialer/formalia/adobe-express-qr-code.png" align="right" width="200">
+<img src="materialer/formalia/adobe-express-qr-code.png" align="right" width="400">
 
 | Lektion |   Dato   | Emne                                                                              |
 |:-------:|:--------:|:----------------------------------------------------------------------------------|
