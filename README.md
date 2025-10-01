@@ -2,9 +2,7 @@
 
 ## Lektionsplan
 
-<div style="display: flex;">
-
-<div>
+<img src="materialer/formalia/adobe-express-qr-code.png" align="right" width="200">
 
 | Lektion |   Dato   | Emne                                                                              |
 |:-------:|:--------:|:----------------------------------------------------------------------------------|
@@ -24,16 +22,6 @@
 |   13    |  24/11   | [Obligatorisk opgave](materialer/obligatoriske/)                                 |
 |   14    |   1/12   | Eksamensforberedelse og vejledning                                               |
 |   15    |   8/12   | Eksamensforberedelse og vejledning                                               |
-
-</div>
-
-<div>
-
-![QR Code](materialer/formalia/adobe-express-qr-code.png)
-
-</div>
-
-</div>
 
 ## Om valgfaget
 * [Læs mere om vagfaget her](materialer/formalia/about_this_elective.md)
