@@ -2,9 +2,9 @@
 
 ## Lektionsplan
 
-<table>
+<table style="border: none;">
 <tr>
-<td>
+<td style="border: none;">
 
 | Lektion |   Dato   | Emne                                                                              |
 |:-------:|:--------:|:----------------------------------------------------------------------------------|
@@ -26,7 +26,7 @@
 |   15    |   8/12   | Eksamensforberedelse og vejledning                                               |
 
 </td>
-<td>
+<td style="border: none;">
 
 ![QR Code](materialer/formalia/adobe-express-qr-code.png)
 
