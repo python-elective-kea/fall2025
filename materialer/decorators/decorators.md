@@ -23,8 +23,6 @@ def greet(name):
     return 'Hello ' + name
 ```
 
-Vi starter med at bruge en ny editor, Jupyter Notebook.
-
 ## Læringsmål
 
 Ved at læse teksterne i materialesektionen, lave de 3 øvelser og følge undervisningen, vil du kunne forklare hvad en decorator er, hvornår den skal bruges, og hvordan de indre dele af en decorator-funktion er opbygget. Du vil også kunne lave dine egne decorators og bruge andres.
