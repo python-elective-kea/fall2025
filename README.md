@@ -1,9 +1,9 @@
 # Introduktion til Python efterår 2025    
 
 ## Lektionsplan
-
+<!--
 <img src="materialer/formalia/adobe-express-qr-code.png" align="right" width="300">
-
+-->
 | Lektion |   Dato   | Emne                                                                              |
 |:-------:|:--------:|:----------------------------------------------------------------------------------|
 |    1    |   28/8   | [Introduktion til python](materialer/introduktion/introduktion.md)               |
