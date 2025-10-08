@@ -44,7 +44,7 @@ Efter denne uge vil du kende til og kunne bruge og forklare:
 - [Python Inner Functions—What Are They Good For?](https://realpython.com/inner-functions-what-are-they-good-for/)
 - [Nested functions in Python](https://www.pythonmorsels.com/nested-functions/)
 - [Notebook on Decorators](notebooks/Decorators.ipynb)
-- [Kode fra undervisningen]()
+- [Kode fra undervisningen](kode_fra_undervisningen.ipynb)
 - [Øvelser](exercises.md)
 
 <!--
