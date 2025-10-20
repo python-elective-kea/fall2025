@@ -97,16 +97,16 @@ def add(*args):
 ```
 
 1. Skriv en decorator der skriver tidspunktet for hver gang denne funktion kaldes til en logfil.
-2. Ændr log-decoratoren til også at udskrive værdierne af argumenterne sammen med timestamp.
+2. Ændre log-decoratoren til også at udskrive værdierne af argumenterne sammen med timestamp.
 3. Udskriv også resultatet af den dekorerede funktion til logfilen.
 4. Lav en ny funktion kaldet `printer(text)` der tager en tekst som parameter og returnerer teksten. Dekorér den med din logfunktion. Virker det?
 
 ## Ex1: Time it!
 
 
-Næste uge skal vi arbejde med *generators*, *generator expressions* og *list comprehensions*. Disse emner handler meget om programmets effektivitet.
+Om nogle uger skal vi arbejde med *generators*, *generator expressions* og *list comprehensions*. Disse emner handler meget om programmets effektivitet.
 
-I den forbindelse skal vi måle vores kode på forskellige måder, og især skal vi *"time det"* og *"måle memory usage"*.
+I den forbindelse skal vi måle vores kode på forskellige måder, og især skal vi *"time det"*.
 
 Hvis du vil måle hvor lang tid det tager at køre et stykke kode, kan du gøre følgende:
 
