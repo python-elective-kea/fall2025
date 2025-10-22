@@ -14,14 +14,9 @@ Efter at have arbejdet med disse emner vil du kunne:
 * relatere den pythoniske OOP-stil til andre sprog (f.eks. Java).
 
 ## Dagen i dag
-
-## Materialer
-
-- [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+- [Notebook on classes](class_notes.ipynb)
+- [Kodeeksempler fra undervisningen](kodeeksempler_fra_undervisningen.ipynb)
 - [Python args and kwargs: Demystified](https://realpython.com/python-kwargs-and-args/)
-- [Notebook on classes](notebooks/class_notes.ipynb)
-- [Code examples from teachings](https://github.com/python-elective-kea/spring2023-code-examples-from-teachings/tree/master/ses7)
-
 
 ## Øvelser
 
