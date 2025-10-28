@@ -58,7 +58,7 @@ Kopier/ind sæt dette i "din" ChatGpt prompt.
 
 I denne øvelse skal du lave en simpel terminalversion af dette [Angry Bird online coding teaching tool for kids](https://studio.code.org/hoc/1>).
 
-![assets/bird.png](assets/bird.png)
+![assets/bird.png](angry_bird.png)
 
 Du skal lave dette som en OOP applikation, og dine klasser kunne se sådan ud.
 
