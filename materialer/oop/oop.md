@@ -37,7 +37,6 @@ Hold dig til de teknikker, vi har dækket indtil nu.
 ## ØV 1a: Python færdigheder Evaluering
 
 Kopier/ind sæt dette i "din" ChatGpt prompt.
-Den rekursive evaluering vil fungere bedst med GPT4 (den betalte version), men det er også okay med gpt3 (bruges af den gratis version).
 
 ```
     Jeg vil gerne have en score for, hvor godt min Python programmering er. Scoren skal være fra 1 til 10.
