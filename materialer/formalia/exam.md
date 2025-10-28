@@ -1,10 +1,10 @@
 # Eksamen i Introduktion til Python - Efterår 2025
 
 ## Eksamensformat
-Eksamen i dette valgfag er en mundtlig prøve baseret på en synopsis.
+Eksamen i dette valgfag er en mundtlig fremlæggelse baseret på en projekt.
 
-## Eksamensemnerne
-Til din eksamen skal du demonstrere, i hvor høj grad du opfylder læringsmålene for dette valgfag. Dette skal du gøre ved at demonstrere din viden, dine færdigheder og dine kompetencer inden for disse emner:
+## Projekt og Eksamensemner
+Til din eksamen skal du demonstrere, i hvor høj grad du opfylder læringsmålene for dette valgfag. Dette skal du gøre ved at demonstrere din viden, dine færdigheder og dine kompetencer inden for et af disse emner:
 
 1. Pythons datastrukturer
 2. Udsagns og boolsk logik
@@ -12,8 +12,8 @@ Til din eksamen skal du demonstrere, i hvor høj grad du opfylder læringsmålen
 4. Funktioner i Python (Indbyggede funktioner, funktioner generelt, dekoratorer osv.)
 
 
-## Synopsis aflevering
-Et par uger inden den mundtlige eksamen skal du aflevere din synopsis på Wiseflow. Hvis du ikke gør dette kan du ikke komme til den efterfølgende mundtlige eksamen. Synopsen skal følge disse retningslinier:
+## Projekt aflevering
+Et par uger inden den mundtlige eksamen skal du aflevere et link til dit projekt på Wiseflow. Hvis du ikke gør dette kan du ikke komme til den efterfølgende mundtlige eksamen. Synopsen skal følge disse retningslinier:
 
 * Max en A4 side (alle 4 emner skal være på en A4 side).
 * Giv en kort beskrivelse, eventuelt i punktform af hvad du vil præsentere inden for hvert emne til eksamenen. 

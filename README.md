@@ -27,4 +27,7 @@
 * [Læs mere om vagfaget her](materialer/formalia/about_this_elective.md)
 
 ## Eksamen
+* [Valgfagsbeskrivelse om eksamen](https://katalog.kea.dk/course/3050406/2025-2026#cs2h3b-accordion)
+<!--
 * [Eksamen i dette valgfag er beskrevet her](materialer/formalia/exam.md)
+-->
