@@ -27,7 +27,7 @@ teacher/*
 # Ignore all future fiolders
 #materialer/boolean/
 materialer/context_managers/
-materialer/datamodel/
+#materialer/datamodel/
 #materialer/datastrukturer1/
 #materialer/datastrukturer2/
 #materialer/decorators/
