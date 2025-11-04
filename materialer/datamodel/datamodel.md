@@ -38,7 +38,7 @@ Og til dig der vil have en grundig introduktion til emnet kan i læse kapitlet h
 
 ## Dagen i dag
 
-* [Notebook on Datamodel](notes_OOP_datamodel.ipynb#Datamodel)
+* [Kode fra undervisningen](kode_fra_undervisningen.ipynb)
 * [Build in functions to Datamodel methods relation table](build_to_dunder.md)
 
 ## Øvelser
