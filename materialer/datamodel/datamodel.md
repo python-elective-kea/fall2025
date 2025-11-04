@@ -39,7 +39,6 @@ Og til dig der vil have en grundig introduktion til emnet kan i læse kapitlet h
 ## Dagen i dag
 
 * [Notebook on Datamodel](notes_OOP_datamodel.ipynb#Datamodel)
-* [Money datamodel demo](money.ipynb)
 * [Build in functions to Datamodel methods relation table](build_to_dunder.md)
 
 ## Øvelser
@@ -47,8 +46,6 @@ Og til dig der vil have en grundig introduktion til emnet kan i læse kapitlet h
 # Øvelser
 
 ## Ex1: Deck of cards
-
-[Solution](exercises/solution/06_datamodel/solutions.rst)
 
 Fortsæt med deck-eksemplet og implementer
 
@@ -60,27 +57,6 @@ Fortsæt med deck-eksemplet og implementer
 * `__delitem__` metoden
 
 Vi ser på dette sammen om et øjeblik.
-
-Når du er færdig, så kig på øvelsen nedenfor og stil dine spørgsmål.
-
-## Ex2: Number Class
-
-```python
-class Number:
-    def __init__(self, num, obj_name):
-        self.num = num
-        self.obj = obj_name
-
-a = Number(5, 'a')
-b = Number(-4, 'b')
-```
-
-Baseret på denne klasse, opret en Number, der opfører sig som en int klasse, men med den ekstra parameter at indsætte et variabelnavn.
-Klassen skal mindst kunne lægges sammen, trækkes fra, ganges og divideres.
-
-## Linked List
-
-[Linked List](protocol_linked_list.md)
 
 ## Point class
 Med denne kode som udgangspunkt
@@ -99,6 +75,12 @@ Feks. med denne brug af objektet:
     v3 = v1 + v2
     >>>
 ````
+
+## Linked List
+
+[Linked List](protocol_linked_list.md)
+
+
 
 <!--
 * [Notebook demo Value class in teachings](notebooks/oop_lecture_value_graphviz.ipynb)
