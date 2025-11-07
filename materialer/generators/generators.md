@@ -49,7 +49,7 @@ Læringsmål
 
 Forberedelse
 ------------
-* [What Does It Take To Be An Expert At Python?](https://youtu.be/7lmCu8wz8ro?si=1KUz6eoAFNt0vWE1&t=3869) (fra  til 1:17:41)
+* [What Does It Take To Be An Expert At Python?](https://youtu.be/7lmCu8wz8ro?si=1KUz6eoAFNt0vWE1&t=3869) (fra 1:04:29 til 1:17:41)
 * [Introduction to Python Generators](https://realpython.com/introduction-to-python-generators/) (ekskl. Using Advanced Generator Methods & Creating Data Pipelines With Generators)
 
 Dagen i dag
