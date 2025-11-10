@@ -27,3 +27,8 @@ Du vil blive bedømt på:
 
 ## Studieordningen
 Du kan se studieordningen inklusiv eksamensbeskrivelse [her](https://katalog.kea.dk/course/3050406/2025-2026)
+
+## Gode råd i forhold til eksamen
+* Det emne eller emner du vælger at snakke om til eksamenen vælger du selv sværhedgraden af. De svære emner giver dig som udgangspunkt en højere karakter end de nemme emner.  
+* Du skal kunne snakke i 10 minutter om emnet. Ikke mere ikke mindre. Så det er en god ide at øve det meget. 
+* Brug projektperioden til at få feedback fra mig (Claus) om dit emne og ide vil give dig det resultat du forventer. Feks. hvis dit mål er et 7 tal til eksamenen, har du så ramt rigtigt i forhold til sværhedgraden af emnet etc.  
