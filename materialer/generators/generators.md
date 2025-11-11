@@ -54,7 +54,7 @@ Forberedelse
 
 Dagen i dag
 -----------
-* [Kodeeksempler fra undervisningen]()
+* [Kodeeksempler fra undervisningen](kode_fra_undervisningen.ipynb)
 
 ## Øvelser
 
