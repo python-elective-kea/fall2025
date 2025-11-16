@@ -18,7 +18,7 @@
 |    9    |  28/10   | [Pythonic OOP](materialer/oop/oop.md)                                            |
 |   10    |   4/11   | [Pythons datamodel](materialer/datamodel/datamodel.md)                           |
 |   11    |  11/11   | [Generators](materialer/generators/generators.md)                                |
-|   12    |  17/11   | [Context managers](materialer/)                                                  |
+|   12    |  17/11   | [Context managers](materialer/context_managers/context_managers.md)                                                  |
 |   13    |  24/11   | [Obligatorisk opgave](materialer/obligatoriske/)                                 |
 |   14    |   1/12   | Eksamensforberedelse og vejledning                                               |
 |   15    |   8/12   | Eksamensforberedelse og vejledning                                               |
