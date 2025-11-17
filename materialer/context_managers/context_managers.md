@@ -21,10 +21,9 @@ Materials
 * [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro&t=4962s) *(good and advanced recap of what we covered in the teachings. Skip the Meta Classes part in the start of the video)*
 * [Context Managers notebook](notebooks/Context-managers.ipynb)
 * [JSON notebook](notebooks/JSON.ipynb)
-* [Pickle notebook](notebooks/Pickle-Pythonobjectserialization.ipynb)
 * [CSV notebook](notebooks/csv.ipynb)
 * [Sqlite notebook](notebooks/Sqlite.ipynb)
-* [Code examples from teachings](https://github.com/python-elective-kea/spring2023-code-examples-from-teachings/tree/master/ses11)
+* [Code examples from teachings](/materialer/context_managers/kode_fra_undervisningen.ipynb)
 
 ## Exercises
 
