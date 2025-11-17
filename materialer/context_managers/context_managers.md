@@ -20,9 +20,9 @@ Materials
 
 * [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro&t=4962s) *(good and advanced recap of what we covered in the teachings. Skip the Meta Classes part in the start of the video)*
 * [Context Managers notebook](notebooks/Context-managers.ipynb)
-* [JSON notebook](notebooks/JSON.ipynb)
-* [CSV notebook](notebooks/csv.ipynb)
-* [Sqlite notebook](notebooks/Sqlite.ipynb)
+* [JSON notebook](JSON.ipynb)
+* [CSV notebook](csv.ipynb)
+* [Sqlite notebook](Sqlite.ipynb)
 * [Code examples from teachings](/materialer/context_managers/kode_fra_undervisningen.ipynb)
 
 ## Exercises
