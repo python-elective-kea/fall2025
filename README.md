@@ -20,8 +20,8 @@
 |   11    |  11/11   | [Generators](materialer/generators/generators.md)                                |
 |   12    |  17/11   | [Context managers](materialer/context_managers/context_managers.md)                                                  |
 |   13    |  24/11   | [Obligatorisk opgave 2](materialer/obligatoriske/obligatorisk_2.md)                                 |
-|   14    |   1/12   | Eksamensforberedelse og vejledning                                               |
-|   15    |   8/12   | Eksamensforberedelse og vejledning                                               |
+|   14    |   1/12   | [Eksamensforberedelse og vejledning](materialer/eksamensprojekt/eksamensprojekt.md)|
+|   15    |   8/12   | [Eksamensforberedelse og vejledning](materialer/eksamensprojekt/eksamensprojekt.md)  |
 
 ## Om valgfaget
 * [Læs mere om vagfaget her](materialer/formalia/about_this_elective.md)
