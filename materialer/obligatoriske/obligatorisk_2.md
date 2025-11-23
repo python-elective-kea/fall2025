@@ -12,3 +12,5 @@ Opgaven skal afleveres senest inden din eksamen, men hvis du vil have feedback p
 Der er ingen undervisning i dag, og opgaven kan laves, hvor I har lyst, og I må lave den sammen i grupper eller individuelt.
 
 Hvis I har spørgsmål til opgaven, kan I kontakte mig på mail: clbo@ek.dk
+
+Opgaven skal afleveres på ItsLearning. 
