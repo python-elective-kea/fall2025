@@ -8,7 +8,9 @@ Vejledningen foregår online på Teams. I ringer mig (clbo) op, eller skriver ti
 
 Videoerne her under omhandler alle emner vi har været igennem i undervisningen. De er desuden alle på ca. 10 minutters varighed, hvilket kan give jer en ide om hvor lang tid i skal kunne snakke om et givent emne. 
 
-**Husk!** :De er alle **meget** gode og velforberedte videoer, som alle ville give en meget høj karakter. Så hvis i ikke helt kan ramme dette niveau kan det stadig nemt være indenfor karakterskalaen. 
+Det er på ingen måde et krav at i skal lave noget lignende, men det er en mulighed hvis i mangler ideer til emner.
+
+**Husk!**: De er alle **meget** gode og velforberedte videoer, som alle ville give en meget høj karakter. Så hvis i ikke helt kan ramme dette niveau kan det stadig nemt være indenfor karakterskalaen. 
 
 
 * [\_\_dict\_\_: where Python stores attributes](https://www.youtube.com/watch?v=xJcyqEAqhxI)
