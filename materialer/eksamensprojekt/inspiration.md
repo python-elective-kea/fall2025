@@ -1,10 +1,4 @@
-# Eksamensforberedelse
-
-I dag mandag d. 1/12 og mandag d. 8/12 kan i bruge mig til vejledning af jeres eksamensprojekt. 
-
-Vejledningen foregår online på Teams. I ringer mig (clbo) op, eller skriver til mig i chatten. 
-
-### Inspiration til jeres eksamensemner
+# Inspiration til jeres eksamensemner
 
 Videoerne her under omhandler alle emner vi har været igennem i undervisningen. De er desuden alle på ca. 10 minutters varighed, hvilket kan give jer en ide om hvor lang tid i skal kunne snakke om et givent emne. 
 
