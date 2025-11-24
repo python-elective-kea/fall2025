@@ -12,7 +12,7 @@ Videoerne her under omhandler alle emner vi har været igennem i undervisningen.
 
 
 * [\_\_dict\_\_: where Python stores attributes](https://www.youtube.com/watch?v=xJcyqEAqhxI)
-* [Expert Python Tutorial #2 - Dunder/Magic Methods & The Python Data Model][https://www.youtube.com/watch?v=z11P9sojHuM]
+* [Expert Python Tutorial #2 - Dunder/Magic Methods & The Python Data Model](https://www.youtube.com/watch?v=z11P9sojHuM)
 * [What Does It Take To Be An Expert At Python? (Datamodel)](https://www.youtube.com/watch?v=7lmCu8wz8ro) (4:54 - 18:00)
 * [What Does It Take To Be An Expert At Python? (Generators)](https://www.youtube.com/watch?v=7lmCu8wz8ro) (1:04:30 - 1:17:20)
 * [What Does It Take To Be An Expert At Python? (Corotines)](https://www.youtube.com/watch?v=7lmCu8wz8ro) (1:17:30 - 1:22:35)
