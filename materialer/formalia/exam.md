@@ -7,8 +7,8 @@ Eksamen i dette valgfag er en mundtlig fremlæggelse baseret på en projekt.
 Til din eksamen skal du demonstrere, i hvor høj grad du opfylder læringsmålene for dette valgfag. Dette skal du gøre ved at demonstrere din viden, dine færdigheder og dine kompetencer inden for et eller flere emner fra undervisningen eller evt. andre selvstuderede emner med relation til python.
 
 ## Projekt aflevering
-Et par uger inden den mundtlige eksamen skal du på Wiseflow aflevere et link (til github etc.) til dit projekt. Hvis du ikke gør dette kan du ikke komme til den efterfølgende mundtlige eksamen. 
-
+Et par uger inden den mundtlige eksamen skal du på Wiseflow aflevere dit eksamens materiale. Det kan være som et link (til github etc.), en pdf, slides eller hvad du ellers har tænkt dig at bruge af materiale til din eksamen. Hvis du ikke gør dette kan du ikke komme til den efterfølgende mundtlige eksamen. 
+ 
 ## Projektets format
 Formatet af dit projekt er frit. Det kan være en applikation der opfylder et formål. Det kan være nogle kodestumper fra et andet lidt større projket, eller det kan være en jupyter notebook med en præsentation af et emne. Fælles for alle formater er at du skal vise kode, have kodeforståelse og du skal kunne formidle emnet. Så det er ikke vigtigt at du har et innovativt produkt der løser en eller anden virkeligheds problemstilling. Det vigtige er din forståelse af din kode. 
 
