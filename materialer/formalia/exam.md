@@ -21,9 +21,10 @@ Eksamen bedømmes efter 7-trinsskalaen.
 
 Vurderingen er baseret på det du viser ved den mundtlige prøve. Din aflevering vurderes ikke inden eksaminationen. 
 
-Du vil blive bedømt på:
-• I hvor høj grad du lever op til valgfagets læringsmål indenfor det emne du berører.
-• Præsentationsevner og evne til at forklare dit projekt og din kode.
+Du vil blive bedømt på:    
+
+* I hvor høj grad du lever op til valgfagets læringsmål indenfor det emne du berører, og hvor kompliseret dit emne er. 
+* Præsentationsevner og evne til at forklare dit projekt og din kode.
 
 ## Studieordningen
 Du kan se studieordningen inklusiv eksamensbeskrivelse [her](https://katalog.kea.dk/course/3050406/2025-2026)
